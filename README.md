@@ -69,7 +69,7 @@ My work sits at the intersection of **web engineering, machine learning, compute
 ### [UVA-GPS-Denied-Navigation-in-Dynamic-Environments](https://github.com/smshagor-dev/UVA-GPS-Denied-Navigation-in-Dynamic-Environments)
 
 <a href="https://github.com/smshagor-dev/UVA-GPS-Denied-Navigation-in-Dynamic-Environments">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smshagor-dev&repo=UVA-GPS-Denied-Navigation-in-Dynamic-Environments&theme=transparent&hide_border=true&title_color=D4AF37&text_color=C9D1D9&icon_color=D4AF37" width="100%" alt="UVA GPS Denied Navigation repository card" />
+  <img src="./assets/projects/uav-gps-denied.svg" width="100%" alt="UAV GPS-Denied Navigation cinematic project cover" />
 </a>
 
 Autonomous navigation research for UAV operation in GPS-denied and dynamic environments, centered on robust localization, perception, sensor fusion, and resilient navigation pipelines.
@@ -80,7 +80,7 @@ Autonomous navigation research for UAV operation in GPS-denied and dynamic envir
 ### [Next-Gen-Blockchain-for-Vehicle-Security](https://github.com/smshagor-dev/Next-Gen-Blockchain-for-Vehicle-Security)
 
 <a href="https://github.com/smshagor-dev/Next-Gen-Blockchain-for-Vehicle-Security">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smshagor-dev&repo=Next-Gen-Blockchain-for-Vehicle-Security&theme=transparent&hide_border=true&title_color=D4AF37&text_color=C9D1D9&icon_color=D4AF37" width="100%" alt="Vehicle security repository card" />
+  <img src="./assets/projects/v2x-security.svg" width="100%" alt="Next-Gen Vehicle Security cinematic project cover" />
 </a>
 
 Applied vehicle-security research combining decentralized trust, modern cryptography, authenticated communication, and security architecture for connected mobility systems.
@@ -94,7 +94,7 @@ Applied vehicle-security research combining decentralized trust, modern cryptogr
 ### [Federated-Learning-on-Non-IID-Data-Differential-Privacy](https://github.com/smshagor-dev/Federated-Learning-on-Non-IID-Data-Differential-Privacy)
 
 <a href="https://github.com/smshagor-dev/Federated-Learning-on-Non-IID-Data-Differential-Privacy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smshagor-dev&repo=Federated-Learning-on-Non-IID-Data-Differential-Privacy&theme=transparent&hide_border=true&title_color=D4AF37&text_color=C9D1D9&icon_color=D4AF37" width="100%" alt="Federated learning repository card" />
+  <img src="./assets/projects/federated-learning-dp.svg" width="100%" alt="Federated Learning and Differential Privacy cinematic project cover" />
 </a>
 
 Federated-learning experimentation for non-IID environments with privacy-preserving training, differential privacy, distributed evaluation, and practical ML analysis.
@@ -105,7 +105,7 @@ Federated-learning experimentation for non-IID environments with privacy-preserv
 ### [wireless-Vision-Aid-for-the-blind](https://github.com/smshagor-dev/wireless-Vision-Aid-for-the-blind)
 
 <a href="https://github.com/smshagor-dev/wireless-Vision-Aid-for-the-blind">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smshagor-dev&repo=wireless-Vision-Aid-for-the-blind&theme=transparent&hide_border=true&title_color=D4AF37&text_color=C9D1D9&icon_color=D4AF37" width="100%" alt="Wireless vision aid repository card" />
+  <img src="./assets/projects/wvab-vision-aid.svg" width="100%" alt="Wireless Vision Aid cinematic project cover" />
 </a>
 
 Edge-computer-vision assistive system exploring real-time scene understanding, object detection, wireless processing, and accessible guidance for visually impaired users.
@@ -119,7 +119,7 @@ Edge-computer-vision assistive system exploring real-time scene understanding, o
 ### [OpenMindAI](https://github.com/smshagor-dev/OpenMindAI)
 
 <a href="https://github.com/smshagor-dev/OpenMindAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smshagor-dev&repo=OpenMindAI&theme=transparent&hide_border=true&title_color=D4AF37&text_color=C9D1D9&icon_color=D4AF37" width="100%" alt="OpenMindAI repository card" />
+  <img src="./assets/projects/openmindai.svg" width="100%" alt="OpenMindAI cinematic project cover" />
 </a>
 
 A local-first AI platform designed around private on-device intelligence, model orchestration, practical assistant workflows, and offline-capable experiences.
@@ -130,7 +130,7 @@ A local-first AI platform designed around private on-device intelligence, model 
 ### [CyberPhotonics-SPR](https://github.com/smshagor-dev/CyberPhotonics-SPR)
 
 <a href="https://github.com/smshagor-dev/CyberPhotonics-SPR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smshagor-dev&repo=CyberPhotonics-SPR&theme=transparent&hide_border=true&title_color=D4AF37&text_color=C9D1D9&icon_color=D4AF37" width="100%" alt="CyberPhotonics SPR repository card" />
+  <img src="./assets/projects/cyberphotonics.svg" width="100%" alt="CyberPhotonics SPR cinematic project cover" />
 </a>
 
 Research-oriented security engineering exploring cyber-physical and photonic sensing concepts, resilient system design, and software-backed experimental workflows.
@@ -144,7 +144,7 @@ Research-oriented security engineering exploring cyber-physical and photonic sen
 ### [decentralized-coordination-and-acoustic-localization-in-secure-autonomousa-drone-swarms](https://github.com/smshagor-dev/decentralized-coordination-and-acoustic-localization-in-secure-autonomousa-drone-swarms)
 
 <a href="https://github.com/smshagor-dev/decentralized-coordination-and-acoustic-localization-in-secure-autonomousa-drone-swarms">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smshagor-dev&repo=decentralized-coordination-and-acoustic-localization-in-secure-autonomousa-drone-swarms&theme=transparent&hide_border=true&title_color=D4AF37&text_color=C9D1D9&icon_color=D4AF37" width="100%" alt="Secure autonomous drone swarms repository card" />
+  <img src="./assets/projects/drone-swarms.svg" width="100%" alt="Secure Autonomous Drone Swarms cinematic project cover" />
 </a>
 
 Secure multi-agent autonomy research spanning decentralized coordination, acoustic localization, swarm resilience, and distributed decision-making.
@@ -155,7 +155,7 @@ Secure multi-agent autonomy research spanning decentralized coordination, acoust
 ### [syncchat](https://github.com/smshagor-dev/syncchat)
 
 <a href="https://github.com/smshagor-dev/syncchat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smshagor-dev&repo=syncchat&theme=transparent&hide_border=true&title_color=D4AF37&text_color=C9D1D9&icon_color=D4AF37" width="100%" alt="SyncChat repository card" />
+  <img src="./assets/projects/syncchat.svg" width="100%" alt="SyncChat cinematic project cover" />
 </a>
 
 A real-time communication project focused on synchronized messaging, modern full-stack architecture, responsive UX, and production-oriented communication flows.
