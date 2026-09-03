@@ -4,6 +4,14 @@ on:
   schedule:
     - cron: "17 6 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/update-profile-art.yml'
+      - 'scripts/fetch_contributions.py'
+      - 'scripts/render_heatmap_svg.py'
+      - 'scripts/requirements-ci.txt'
 
 permissions:
   contents: write
