@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="236" viewBox="0 0 860 236" role="img" aria-labelledby="title desc">
+<title id="title">GitHub contribution heatmap</title>
+<desc id="desc">Trailing GitHub contribution activity for smshagor-dev.</desc>
+<style>
+  .title{fill:#D4AF37;font:600 16px "SFMono-Regular",Consolas,monospace}
+  .stat{fill:#c9d1d9;font:11px "SFMono-Regular",Consolas,monospace}
+  .muted,.month,.weekday{fill:#7d8590;font:9px "SFMono-Regular",Consolas,monospace}
+  .pending{fill:#7d8590;font:12px "SFMono-Regular",Consolas,monospace}
+</style>
+<rect x="1" y="1" width="858" height="234" rx="18" fill="#0d0d0d" stroke="#3b3218" stroke-width="2"/>
+<text x="24" y="32" class="title">CONTRIBUTION SIGNAL</text>
+<text x="24" y="57" class="stat">TOTAL <tspan fill="#D4AF37">0</tspan></text>
+<text x="205" y="57" class="stat">CURRENT <tspan fill="#D4AF37">0d</tspan></text>
+<text x="386" y="57" class="stat">LONGEST <tspan fill="#D4AF37">0d</tspan></text>
+<text x="567" y="57" class="stat">BEST DAY <tspan fill="#D4AF37">0</tspan></text>
+<text x="48" y="92" class="month">Sep</text><text x="100" y="92" class="month">Oct</text><text x="152" y="92" class="month">Nov</text><text x="217" y="92" class="month">Dec</text><text x="269" y="92" class="month">Jan</text><text x="334" y="92" class="month">Feb</text><text x="386" y="92" class="month">Mar</text><text x="438" y="92" class="month">Apr</text><text x="490" y="92" class="month">May</text><text x="555" y="92" class="month">Jun</text><text x="607" y="92" class="month">Jul</text><text x="659" y="92" class="month">Aug</text><text x="724" y="92" class="month">Sep</text>
+<text x="16" y="125" class="weekday">Mon</text><text x="16" y="151" class="weekday">Wed</text><text x="16" y="177" class="weekday">Fri</text>
+<text x="430" y="151" text-anchor="middle" class="pending">Heatmap pending first workflow run</text>
+<text x="724" y="214" class="muted">Less</text><rect x="756" y="205" width="10" height="10" rx="2" fill="#161b22"/><rect x="772" y="205" width="10" height="10" rx="2" fill="#3b3118"/><rect x="788" y="205" width="10" height="10" rx="2" fill="#705b1d"/><rect x="804" y="205" width="10" height="10" rx="2" fill="#a98227"/><rect x="820" y="205" width="10" height="10" rx="2" fill="#D4AF37"/><text x="840" y="214" class="muted">More</text>
+</svg>
