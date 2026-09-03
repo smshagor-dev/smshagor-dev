@@ -1,5 +1,6 @@
 name: Update Profile Art
 
+# Refresh the self-hosted contribution artwork automatically.
 on:
   schedule:
     - cron: "17 6 * * *"
