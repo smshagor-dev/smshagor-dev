@@ -1,5 +1,13 @@
 <div align="center">
 
+<a href="https://smsagor.com">
+  <img
+    src="./assets/profile-hero.svg"
+    width="100%"
+    alt="Animated professional profile hero for Shahanur Islam Shagor"
+  />
+</a>
+
 # <code>The Cipher Stack</code>
 
 <table>
@@ -12,14 +20,6 @@
     </td>
   </tr>
 </table>
-
-<a href="https://smsagor.com">
-  <img
-    src="./assets/profile-hero.svg"
-    width="100%"
-    alt="Animated professional profile hero for Shahanur Islam Shagor"
-  />
-</a>
 
 </div>
 
