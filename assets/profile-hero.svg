@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="480" viewBox="0 0 1000 480" role="img" aria-labelledby="title desc">
 <title id="title">Shahanur Islam Shagor — Professional Engineering Profile</title>
-<desc id="desc">Animated GitHub profile hero for a Full-Stack Developer and AI / Autonomous Systems Engineer focused on production software, edge AI, robotics, security and research.</desc>
+<desc id="desc">Animated GitHub profile hero for a Full-Stack Developer and AI / Autonomous Systems Engineer with primary programming languages, production software, edge AI, robotics, security and research.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05070a"/><stop offset=".52" stop-color="#0b0f14"/><stop offset="1" stop-color="#06080b"/></linearGradient>
   <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8d6b16"/><stop offset=".5" stop-color="#f0ca55"/><stop offset="1" stop-color="#a97c18"/></linearGradient>
@@ -10,50 +10,55 @@
   <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3"/></filter>
   <style>
     .mono{font-family:Consolas,Menlo,"Liberation Mono",monospace}.sans{font-family:Inter,"Segoe UI",Arial,sans-serif}.muted{fill:#7d8590}.text{fill:#f0f3f6}.gold{fill:#d4af37}.cyan{fill:#62c9ee}.green{fill:#4fd18b}
-    .signal{stroke-dasharray:8 16;animation:dash 9s linear infinite}.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.7s ease-in-out infinite}.blink{animation:blink 1.05s step-end infinite}.scan{animation:scan 6s ease-in-out infinite}.fade1{animation:fade 4.5s ease-in-out infinite}.fade2{animation:fade 4.5s ease-in-out 1.4s infinite}.fade3{animation:fade 4.5s ease-in-out 2.8s infinite}.sweep{animation:sweep 5s ease-in-out infinite}
-    @keyframes dash{to{stroke-dashoffset:-240}}@keyframes pulse{0%,100%{opacity:.55;transform:scale(.86)}50%{opacity:1;transform:scale(1.16)}}@keyframes blink{50%{opacity:0}}@keyframes scan{0%,100%{transform:translateY(-32px);opacity:0}15%{opacity:.26}50%{transform:translateY(245px);opacity:.18}85%{opacity:.2}}@keyframes fade{0%,100%{opacity:.28}50%{opacity:.9}}@keyframes sweep{0%,100%{transform:translateX(-210px);opacity:0}18%{opacity:.9}52%{transform:translateX(220px);opacity:.7}70%{opacity:0}}
-    @media (prefers-reduced-motion:reduce){.signal,.pulse,.blink,.scan,.fade1,.fade2,.fade3,.sweep{animation:none!important}}
+    .signal{stroke-dasharray:8 16;animation:dash 9s linear infinite}.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.7s ease-in-out infinite}.blink{animation:blink 1.05s step-end infinite}.scan{animation:scan 7s ease-in-out infinite}.fade1{animation:fade 4.5s ease-in-out infinite}.fade2{animation:fade 4.5s ease-in-out 1.4s infinite}.fade3{animation:fade 4.5s ease-in-out 2.8s infinite}.sweep{animation:sweep 5s ease-in-out infinite}.lang{animation:lang 5.6s ease-in-out infinite}.l1{animation-delay:0s}.l2{animation-delay:.8s}.l3{animation-delay:1.6s}.l4{animation-delay:2.4s}.l5{animation-delay:3.2s}.l6{animation-delay:4s}.l7{animation-delay:4.8s}.rail{animation:rail 8s ease-in-out infinite}
+    @keyframes dash{to{stroke-dashoffset:-240}}@keyframes pulse{0%,100%{opacity:.55;transform:scale(.86)}50%{opacity:1;transform:scale(1.16)}}@keyframes blink{50%{opacity:0}}@keyframes scan{0%,100%{transform:translateY(-42px);opacity:0}14%{opacity:.2}50%{transform:translateY(300px);opacity:.14}86%{opacity:.18}}@keyframes fade{0%,100%{opacity:.28}50%{opacity:.9}}@keyframes sweep{0%,100%{transform:translateX(-210px);opacity:0}18%{opacity:.9}52%{transform:translateX(220px);opacity:.7}70%{opacity:0}}@keyframes lang{0%,70%,100%{opacity:.52}12%,34%{opacity:1}}@keyframes rail{0%,100%{transform:translateX(-455px);opacity:0}12%{opacity:.65}50%{transform:translateX(455px);opacity:.7}88%{opacity:.15}}
+    @media (prefers-reduced-motion:reduce){.signal,.pulse,.blink,.scan,.fade1,.fade2,.fade3,.sweep,.lang,.rail{animation:none!important}}
   </style>
 </defs>
 
-<rect x="1" y="1" width="998" height="418" rx="24" fill="url(#bg)" stroke="#2a2f36" stroke-width="2"/>
-<rect x="1" y="1" width="998" height="418" rx="24" fill="url(#grid)"/>
-<ellipse cx="500" cy="155" rx="330" ry="185" fill="url(#halo)"/>
+<rect x="1" y="1" width="998" height="478" rx="24" fill="url(#bg)" stroke="#2a2f36" stroke-width="2"/>
+<rect x="1" y="1" width="998" height="478" rx="24" fill="url(#grid)"/>
+<ellipse cx="500" cy="150" rx="330" ry="185" fill="url(#halo)"/>
 
-<!-- restrained circuit field -->
 <g fill="none" stroke-linecap="round">
   <path d="M0 126H116l34-34h112" stroke="#39434d" stroke-width="1.2"/><path d="M0 126H116l34-34h112" class="signal" stroke="#62c9ee" stroke-opacity=".34"/>
-  <path d="M0 302h126l28-30h96" stroke="#4b3d17" stroke-width="1.2"/><path d="M0 302h126l28-30h96" class="signal" stroke="#d4af37" stroke-opacity=".46"/>
+  <path d="M0 332h126l28-30h96" stroke="#4b3d17" stroke-width="1.2"/><path d="M0 332h126l28-30h96" class="signal" stroke="#d4af37" stroke-opacity=".46"/>
   <path d="M1000 126H884l-34-34H738" stroke="#39434d" stroke-width="1.2"/><path d="M1000 126H884l-34-34H738" class="signal" stroke="#62c9ee" stroke-opacity=".34"/>
-  <path d="M1000 302H874l-28-30h-96" stroke="#4b3d17" stroke-width="1.2"/><path d="M1000 302H874l-28-30h-96" class="signal" stroke="#d4af37" stroke-opacity=".46"/>
+  <path d="M1000 332H874l-28-30h-96" stroke="#4b3d17" stroke-width="1.2"/><path d="M1000 332H874l-28-30h-96" class="signal" stroke="#d4af37" stroke-opacity=".46"/>
 </g>
-<g><circle cx="150" cy="92" r="3" fill="#62c9ee" class="fade1"/><circle cx="154" cy="272" r="3" fill="#d4af37" class="fade2"/><circle cx="850" cy="92" r="3" fill="#62c9ee" class="fade3"/><circle cx="846" cy="272" r="3" fill="#d4af37" class="fade1"/></g>
+<g><circle cx="150" cy="92" r="3" fill="#62c9ee" class="fade1"/><circle cx="154" cy="302" r="3" fill="#d4af37" class="fade2"/><circle cx="850" cy="92" r="3" fill="#62c9ee" class="fade3"/><circle cx="846" cy="302" r="3" fill="#d4af37" class="fade1"/></g>
 
-<!-- top system line -->
 <g class="mono" font-size="10" letter-spacing="1.25"><circle cx="38" cy="32" r="4" fill="#4fd18b" class="pulse"/><text x="51" y="36" class="muted">ENGINEERING PROFILE / smshagor-dev</text><text x="962" y="36" text-anchor="end" class="green">SYSTEM ONLINE</text></g>
 <line x1="28" y1="52" x2="972" y2="52" stroke="#222831"/>
 
-<!-- headline -->
-<text x="500" y="139" text-anchor="middle" class="sans text" font-size="48" font-weight="750" letter-spacing="-.5">Shahanur <tspan fill="#d4af37">Islam</tspan> Shagor</text>
-<rect x="330" y="159" width="340" height="2" rx="1" fill="#252b32"/><rect x="430" y="159" width="140" height="2" rx="1" fill="url(#gold)"/>
-<rect x="464" y="158" width="72" height="4" rx="2" fill="#f0ca55" opacity=".18" filter="url(#soft)"/>
-<rect x="430" y="158" width="140" height="4" rx="2" fill="url(#goldFade)" class="sweep"/>
-<text x="500" y="199" text-anchor="middle" class="sans" fill="#c9d1d9" font-size="20" font-weight="500">Full-Stack Developer <tspan fill="#d4af37">|</tspan> AI / Autonomous Systems Engineer</text>
-<text x="500" y="225" text-anchor="middle" class="mono muted" font-size="11" letter-spacing="1.1">PRODUCTION SOFTWARE · EDGE AI · ROBOTICS · SECURITY · APPLIED RESEARCH</text>
+<text x="500" y="136" text-anchor="middle" class="sans text" font-size="48" font-weight="750" letter-spacing="-.5">Shahanur <tspan fill="#d4af37">Islam</tspan> Shagor</text>
+<rect x="330" y="156" width="340" height="2" rx="1" fill="#252b32"/><rect x="430" y="156" width="140" height="2" rx="1" fill="url(#gold)"/><rect x="464" y="155" width="72" height="4" rx="2" fill="#f0ca55" opacity=".18" filter="url(#soft)"/><rect x="430" y="155" width="140" height="4" rx="2" fill="url(#goldFade)" class="sweep"/>
+<text x="500" y="195" text-anchor="middle" class="sans" fill="#c9d1d9" font-size="20" font-weight="500">Full-Stack Developer <tspan fill="#d4af37">|</tspan> AI / Autonomous Systems Engineer</text>
+<text x="500" y="220" text-anchor="middle" class="mono muted" font-size="10.5" letter-spacing="1.05">PRODUCTION SOFTWARE · EDGE AI · ROBOTICS · SECURITY · APPLIED RESEARCH</text>
 
-<!-- status strip -->
-<g class="mono" font-size="10">
-  <rect x="176" y="257" width="190" height="48" rx="12" fill="#0a0e13" stroke="#28303a"/><circle cx="199" cy="281" r="5" fill="#4fd18b" class="pulse"/><text x="215" y="285" class="text">OPEN TO OPPORTUNITIES</text>
-  <rect x="385" y="257" width="230" height="48" rx="12" fill="#0a0e13" stroke="#4c401c"/><path d="M412 272c-7 0-12 5-12 12 0 8 12 17 12 17s12-9 12-17c0-7-5-12-12-12zm0 7a5 5 0 110 10 5 5 0 010-10z" fill="#d4af37" opacity=".9"/><text x="437" y="285" class="text">VORONEZH, RUSSIA · UTC+3</text>
-  <rect x="634" y="257" width="190" height="48" rx="12" fill="#0a0e13" stroke="#28303a"/><path d="M657 273h13v13h-13zm3-6h7v5h-7z" fill="none" stroke="#62c9ee" stroke-width="1.5"/><text x="681" y="285" class="text">BUILD · RESEARCH · SHIP</text>
+<!-- animated primary programming languages -->
+<text x="500" y="250" text-anchor="middle" class="mono muted" font-size="8.5" letter-spacing="1.5">PRIMARY PROGRAMMING LANGUAGES</text>
+<rect x="138" y="262" width="724" height="42" rx="12" fill="#080c11" stroke="#252c34"/>
+<rect x="148" y="271" width="704" height="24" rx="8" fill="#0a0f15"/>
+<g class="mono" font-size="10" text-anchor="middle">
+  <g class="lang l1"><rect x="161" y="273" width="86" height="20" rx="7" fill="#10161d" stroke="#3f4d59"/><text x="204" y="286" class="cyan">TypeScript</text></g>
+  <g class="lang l2"><rect x="255" y="273" width="92" height="20" rx="7" fill="#10161d" stroke="#4d401b"/><text x="301" y="286" class="gold">JavaScript</text></g>
+  <g class="lang l3"><rect x="355" y="273" width="78" height="20" rx="7" fill="#10161d" stroke="#3f4d59"/><text x="394" y="286" class="cyan">Python</text></g>
+  <g class="lang l4"><rect x="441" y="273" width="72" height="20" rx="7" fill="#10161d" stroke="#4d401b"/><text x="477" y="286" class="gold">C++20</text></g>
+  <g class="lang l5"><rect x="521" y="273" width="58" height="20" rx="7" fill="#10161d" stroke="#3f4d59"/><text x="550" y="286" class="cyan">Go</text></g>
+  <g class="lang l6"><rect x="587" y="273" width="58" height="20" rx="7" fill="#10161d" stroke="#4d401b"/><text x="616" y="286" class="gold">PHP</text></g>
+  <g class="lang l7"><rect x="653" y="273" width="64" height="20" rx="7" fill="#10161d" stroke="#3f4d59"/><text x="685" y="286" class="cyan">SQL</text></g>
+</g>
+<rect x="495" y="299" width="10" height="2" rx="1" fill="#d4af37" class="rail"/>
+
+<g class="mono" font-size="9.5">
+  <rect x="176" y="326" width="190" height="45" rx="12" fill="#0a0e13" stroke="#28303a"/><circle cx="199" cy="348.5" r="5" fill="#4fd18b" class="pulse"/><text x="215" y="352" class="text">OPEN TO OPPORTUNITIES</text>
+  <rect x="385" y="326" width="230" height="45" rx="12" fill="#0a0e13" stroke="#4c401c"/><path d="M412 339c-7 0-12 5-12 12 0 8 12 17 12 17s12-9 12-17c0-7-5-12-12-12zm0 7a5 5 0 110 10 5 5 0 010-10z" fill="#d4af37" opacity=".9" transform="translate(0 -3) scale(.82) translate(90 78)"/><text x="437" y="352" class="text">VORONEZH, RUSSIA · UTC+3</text>
+  <rect x="634" y="326" width="190" height="45" rx="12" fill="#0a0e13" stroke="#28303a"/><path d="M657 340h13v13h-13zm3-6h7v5h-7z" fill="none" stroke="#62c9ee" stroke-width="1.5"/><text x="681" y="352" class="text">BUILD · RESEARCH · SHIP</text>
 </g>
 
-<!-- terminal statement -->
-<rect x="142" y="330" width="716" height="58" rx="13" fill="#080c11" stroke="#252c34"/>
-<path d="M142 343v32" stroke="#d4af37" stroke-width="3"/>
-<text x="168" y="365" class="mono gold" font-size="14">&gt;_</text><text x="207" y="365" class="mono" fill="#d7dce2" font-size="14">Building scalable software, intelligent systems, and resilient autonomy.</text><rect x="819" y="350" width="8" height="20" rx="1" fill="#d4af37" class="blink"/>
+<rect x="142" y="392" width="716" height="55" rx="13" fill="#080c11" stroke="#252c34"/><path d="M142 404v31" stroke="#d4af37" stroke-width="3"/><text x="168" y="426" class="mono gold" font-size="14">&gt;_</text><text x="207" y="426" class="mono" fill="#d7dce2" font-size="13.5">Building scalable software, intelligent systems, and resilient autonomy.</text><rect x="818" y="412" width="8" height="19" rx="1" fill="#d4af37" class="blink"/>
 
-<!-- scan accent -->
 <g class="scan"><rect x="22" y="82" width="956" height="1" fill="#62c9ee" opacity=".25"/><rect x="390" y="80" width="220" height="5" fill="#62c9ee" opacity=".035" filter="url(#soft)"/></g>
-<text x="500" y="408" text-anchor="middle" class="mono" fill="#4d5660" font-size="8.5" letter-spacing="1">SECURITY BY DESIGN · MEASURABLE PERFORMANCE · MAINTAINABLE SYSTEMS</text>
+<text x="500" y="467" text-anchor="middle" class="mono" fill="#4d5660" font-size="8.5" letter-spacing="1">SECURITY BY DESIGN · MEASURABLE PERFORMANCE · MAINTAINABLE SYSTEMS</text>
 </svg>
