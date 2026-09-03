@@ -1,0 +1,54 @@
+name: Update Profile Art
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-art
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements-ci.txt
+
+      - name: Install lightweight CI dependencies
+        run: python -m pip install --upgrade pip && pip install -r scripts/requirements-ci.txt
+
+      - name: Fetch public GitHub contribution data
+        env:
+          PROFILE_GITHUB_USERNAME: smshagor-dev
+        run: python scripts/fetch_contributions.py --username "$PROFILE_GITHUB_USERNAME"
+
+      - name: Render contribution heatmap
+        run: python scripts/render_heatmap_svg.py
+
+      - name: Commit refreshed profile art
+        shell: bash
+        run: |
+          if git diff --quiet -- contrib-heatmap.svg data/contributions.json; then
+            echo "No contribution changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add contrib-heatmap.svg data/contributions.json
+          git commit -m "chore: refresh profile contributions [skip ci]"
+          git push
