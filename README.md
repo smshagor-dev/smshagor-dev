@@ -248,17 +248,7 @@ Machine learning · Deep learning · Neural networks · Supervised and unsupervi
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=smshagor-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=C9D1D9&icon_color=D4AF37&rank_icon=github"
-  height="170"
-  alt="GitHub statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=smshagor-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=C9D1D9&langs_count=10"
-  height="170"
-  alt="Most used languages"
-/>
+<img src="./assets/pulse/github-pulse.svg" width="100%" alt="GitHub Pulse for smshagor-dev" />
 
 </div>
 
