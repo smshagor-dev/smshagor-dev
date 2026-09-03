@@ -5,30 +5,19 @@
 <table>
   <tr>
     <td width="43%" align="center" valign="top">
-      <img src="./hxni-ascii.svg" width="370" alt="ASCII portrait of Shahanur Islam Shagor" />
+      <img src="./hxni-ascii.svg" width="370" alt="Shahanur Islam Shagor engineering identity panel" />
     </td>
     <td width="57%" align="center" valign="top">
-      <img src="./info-card.svg" width="490" alt="The Cipher Stack developer information card" />
+      <img src="./info-card.svg" width="490" alt="Shahanur Islam Shagor professional system profile" />
     </td>
   </tr>
 </table>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=0,2,24,30&text=Shahanur%20Islam%20Shagor&fontColor=D4AF37&fontSize=42&fontAlignY=43&desc=Full-Stack%20Developer%20%7C%20AI%20%2F%20Autonomous%20Systems%20Engineer&descAlignY=61&descSize=17&animation=fadeIn"
-  width="100%"
-  alt="Shahanur Islam Shagor cinematic profile banner"
-/>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=smshagor-dev&label=PROFILE%20VIEWS&color=D4AF37&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-AVAILABLE-D4AF37?style=for-the-badge&labelColor=0d0d0d" alt="Open to work" />
-  <img src="https://img.shields.io/badge/VORONEZH%2C%20RUSSIA-UTC%2B3-D4AF37?style=for-the-badge&labelColor=0d0d0d" alt="Voronezh Russia UTC+3" />
-</p>
-
 <a href="https://smsagor.com">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=1000&lines=I+build+systems+that+move+from+idea+to+production.;Full-stack+engineering+meets+AI%2C+robotics%2C+and+security.;Offline-first.+Edge-aware.+Research-driven.;Shipping+software+with+performance%2C+security%2C+and+scale+in+mind."
-    alt="Typing introduction"
+    src="./assets/profile-hero.svg"
+    width="100%"
+    alt="Animated professional profile hero for Shahanur Islam Shagor"
   />
 </a>
 
