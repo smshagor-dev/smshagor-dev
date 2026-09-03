@@ -1,22 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="490" height="520" viewBox="0 0 490 520" role="img" aria-labelledby="title desc">
-<title id="title">The Cipher Stack</title>
-<desc id="desc">Animated terminal-style technical profile of Shahanur Islam Shagor.</desc>
-<style>
-  .row { opacity:0; animation: enter .55s cubic-bezier(.2,.7,.2,1) forwards; }
-  .l0{animation-delay:0.100s}.l1{animation-delay:0.175s}.l2{animation-delay:0.250s}.l3{animation-delay:0.325s}.l4{animation-delay:0.400s}.l5{animation-delay:0.475s}.l6{animation-delay:0.550s}.l7{animation-delay:0.625s}.l8{animation-delay:0.700s}.l9{animation-delay:0.775s}.l10{animation-delay:0.850s}.l11{animation-delay:0.925s}.l12{animation-delay:1.000s}.l13{animation-delay:1.075s}.l14{animation-delay:1.150s}
-  .key { fill:#D4AF37; font:600 12px "SFMono-Regular",Consolas,"Liberation Mono",monospace; }
-  .value { fill:#c9d1d9; font:11.2px "SFMono-Regular",Consolas,"Liberation Mono",monospace; }
-  .cursor { animation: blink 1s step-end infinite; }
-  @keyframes enter { from{opacity:0;transform:translateX(-8px)} to{opacity:1;transform:translateX(0)} }
-  @keyframes blink { 50%{opacity:0} }
-</style>
-<rect x="1" y="1" width="488" height="518" rx="18" fill="#0d0d0d" stroke="#3b3218" stroke-width="2"/>
-<circle cx="24" cy="25" r="5" fill="#ff5f57"/>
-<circle cx="42" cy="25" r="5" fill="#febc2e"/>
-<circle cx="60" cy="25" r="5" fill="#28c840"/>
-<text x="245" y="30" text-anchor="middle" fill="#D4AF37" font-size="12" font-family="monospace">The Cipher Stack</text>
-<line x1="18" y1="47" x2="472" y2="47" stroke="#252525"/>
-<text x="28" y="65" fill="#7d8590" font-size="10.5" font-family="monospace">shagor@cipher:~$ neofetch --engineering</text>
-<g class="row l0"><text x="28" y="84" class="key">OS</text><text x="126" y="84" class="value">Linux · Windows · Edge</text></g><g class="row l1"><text x="28" y="111" class="key">Host</text><text x="126" y="111" class="value">smshagor-dev</text></g><g class="row l2"><text x="28" y="138" class="key">Role</text><text x="126" y="138" class="value">Full-Stack + AI / Autonomous Systems</text></g><g class="row l3"><text x="28" y="165" class="key">Languages</text><text x="126" y="165" class="value">TypeScript · Python · C++20 · Go · PHP</text></g><g class="row l4"><text x="28" y="192" class="key">Web</text><text x="126" y="192" class="value">Next.js · React · Node.js · Laravel</text></g><g class="row l5"><text x="28" y="219" class="key">AI</text><text x="126" y="219" class="value">PyTorch · TensorFlow · OpenCV · ONNX</text></g><g class="row l6"><text x="28" y="246" class="key">Vision</text><text x="126" y="246" class="value">YOLOv8 · real-time perception</text></g><g class="row l7"><text x="28" y="273" class="key">Robotics</text><text x="126" y="273" class="value">ESKF · VIO · UWB/TDOA · LiDAR</text></g><g class="row l8"><text x="28" y="300" class="key">Edge</text><text x="126" y="300" class="value">Jetson · Raspberry Pi · ESP32 · ROS</text></g><g class="row l9"><text x="28" y="327" class="key">Data</text><text x="126" y="327" class="value">PostgreSQL · MySQL · MongoDB · Redis</text></g><g class="row l10"><text x="28" y="354" class="key">Security</text><text x="126" y="354" class="value">V2X · ML-KEM · ZKP · mTLS</text></g><g class="row l11"><text x="28" y="381" class="key">Infra</text><text x="126" y="381" class="value">Docker · Nginx · CI/CD · AWS · GCP</text></g><g class="row l12"><text x="28" y="408" class="key">Portfolio</text><text x="126" y="408" class="value">smsagor.com</text></g><g class="row l13"><text x="28" y="435" class="key">GitHub</text><text x="126" y="435" class="value">github.com/smshagor-dev</text></g><g class="row l14"><text x="28" y="462" class="key">Location</text><text x="126" y="462" class="value">Voronezh, Russia · UTC+3</text></g>
-<text x="28" y="500" fill="#7d8590" font-size="10.5" font-family="monospace">status: <tspan fill="#D4AF37">building</tspan> <tspan class="cursor" fill="#D4AF37">▋</tspan></text>
+<title id="title">Shahanur Islam Shagor — Professional System Profile</title>
+<desc id="desc">Professional engineering profile covering full-stack development, AI, autonomous systems, edge computing, cybersecurity and applied research.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07090d"/><stop offset=".52" stop-color="#0d1117"/><stop offset="1" stop-color="#080a0f"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b6b17"/><stop offset=".5" stop-color="#f0cf63"/><stop offset="1" stop-color="#a97f1d"/></linearGradient>
+  <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#d4af37" stroke-opacity=".03"/></pattern>
+  <style>.mono{font-family:Consolas,Menlo,"Liberation Mono",monospace}.sans{font-family:Inter,"Segoe UI",Arial,sans-serif}.muted{fill:#7d8590}.text{fill:#e6edf3}.gold{fill:#d4af37}.cyan{fill:#55d6ff}.green{fill:#4fd18b}</style>
+</defs>
+<rect x="1" y="1" width="488" height="518" rx="20" fill="url(#bg)" stroke="#3b3218" stroke-width="2"/><rect x="1" y="1" width="488" height="518" rx="20" fill="url(#grid)"/>
+<circle cx="24" cy="23" r="4.5" fill="#ff5f57"/><circle cx="40" cy="23" r="4.5" fill="#febc2e"/><circle cx="56" cy="23" r="4.5" fill="#28c840"/><text x="245" y="27" text-anchor="middle" class="mono muted" font-size="9">profile://engineering-system</text><text x="464" y="27" text-anchor="end" class="mono green" font-size="7.7">VERIFIED STACK</text><line x1="18" y1="42" x2="472" y2="42" stroke="#262c34"/>
+
+<text x="24" y="70" class="mono gold" font-size="8.5" letter-spacing="1.2">PROFESSIONAL SYSTEM PROFILE</text><text x="24" y="94" class="sans text" font-size="19" font-weight="700">Full-Stack Developer</text><text x="24" y="116" class="sans text" font-size="19" font-weight="700">AI / Autonomous Systems Engineer</text><text x="24" y="136" class="mono cyan" font-size="8.5">PRODUCTION SOFTWARE • EDGE INTELLIGENCE • APPLIED RESEARCH</text>
+
+<rect x="24" y="154" width="442" height="76" rx="12" fill="#090d12" stroke="#2a3038"/>
+<text x="39" y="174" class="mono muted" font-size="7.7" letter-spacing="1">PRODUCTION ENGINEERING</text><text x="39" y="194" class="mono text" font-size="9">Next.js • React • TypeScript • Node.js • Laravel</text><text x="39" y="211" class="mono muted" font-size="8.2">REST • WebSockets • PostgreSQL • MySQL • MongoDB • Redis</text>
+<rect x="384" y="169" width="64" height="18" rx="9" fill="#111820" stroke="#36515f"/><text x="416" y="181" text-anchor="middle" class="mono cyan" font-size="7">FULL-STACK</text>
+
+<rect x="24" y="240" width="214" height="86" rx="12" fill="#090d12" stroke="#33414d"/><text x="39" y="260" class="mono cyan" font-size="8" letter-spacing="1">AI / EDGE</text><text x="39" y="280" class="mono text" font-size="8.5">PyTorch • TensorFlow • OpenCV</text><text x="39" y="297" class="mono muted" font-size="8">ONNX • TensorRT • YOLOv8</text><text x="39" y="314" class="mono muted" font-size="8">Jetson • Raspberry Pi • ESP32</text>
+<rect x="252" y="240" width="214" height="86" rx="12" fill="#090d12" stroke="#65531e"/><text x="267" y="260" class="mono gold" font-size="8" letter-spacing="1">AUTONOMOUS SYSTEMS</text><text x="267" y="280" class="mono text" font-size="8.5">VIO • ESKF • Sensor Fusion</text><text x="267" y="297" class="mono muted" font-size="8">UWB/TDOA • LiDAR • Localization</text><text x="267" y="314" class="mono muted" font-size="8">ROS • Perception • Navigation</text>
+
+<rect x="24" y="336" width="214" height="86" rx="12" fill="#090d12" stroke="#65531e"/><text x="39" y="356" class="mono gold" font-size="8" letter-spacing="1">SECURITY / TRUST</text><text x="39" y="376" class="mono text" font-size="8.5">V2X • Post-Quantum Cryptography</text><text x="39" y="393" class="mono muted" font-size="8">ML-KEM • mTLS • ZKP</text><text x="39" y="410" class="mono muted" font-size="8">Secure-by-design architectures</text>
+<rect x="252" y="336" width="214" height="86" rx="12" fill="#090d12" stroke="#33414d"/><text x="267" y="356" class="mono cyan" font-size="8" letter-spacing="1">RESEARCH / PRIVACY</text><text x="267" y="376" class="mono text" font-size="8.5">Federated Learning • Differential Privacy</text><text x="267" y="393" class="mono muted" font-size="8">Computer Vision • Edge AI</text><text x="267" y="410" class="mono muted" font-size="8">Trustworthy AI • Validation</text>
+
+<text x="24" y="447" class="mono muted" font-size="7.5" letter-spacing="1">ENGINEERING PRINCIPLES</text><rect x="24" y="458" width="442" height="39" rx="10" fill="#090d12" stroke="#252b33"/>
+<circle cx="39" cy="477" r="3.5" fill="#4fd18b"/><text x="48" y="480" class="mono text" font-size="7.7">SECURITY BY DESIGN</text><circle cx="159" cy="477" r="3.5" fill="#d4af37"/><text x="168" y="480" class="mono text" font-size="7.7">MEASURABLE PERFORMANCE</text><circle cx="315" cy="477" r="3.5" fill="#55d6ff"/><text x="324" y="480" class="mono text" font-size="7.7">MAINTAINABLE SYSTEMS</text>
+<rect x="24" y="505" width="442" height="2" rx="1" fill="#20252d"/><rect x="24" y="505" width="308" height="2" rx="1" fill="url(#gold)"/>
+<text x="245" y="516" text-anchor="middle" fill="#4e5660" class="mono" font-size="6.8">smshagor-dev • build • research • secure • automate</text>
 </svg>
