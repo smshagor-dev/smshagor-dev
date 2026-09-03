@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Keep the original portrait local; commit only generated SVG artwork.
+hero.png
+hero.jpg
+hero.jpeg
+source-prepped.png
