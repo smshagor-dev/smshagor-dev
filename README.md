@@ -163,7 +163,7 @@ A real-time communication project focused on synchronized messaging, modern full
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go,php" alt="TypeScript JavaScript Python C++ Go PHP" />
 </p>
 
-`TypeScript` · `JavaScript` · `Python` · `C++20` · `Go` · `PHP` · `SQL`
+`TypeScript` · `JavaScript` · `Python` · `C++20` · `Go` · `PHP`
 
 ### Frontend / 3D
 
@@ -179,7 +179,7 @@ A real-time communication project focused on synchronized messaging, modern full
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mysql,mongodb,redis,prisma" alt="Backend and database technology icons" />
 </p>
 
-`Node.js` · `Express.js` · `Laravel` · `RESTful APIs` · `WebSockets` · `Socket.IO` · `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Prisma ORM`
+`Node.js` · `Express.js` · `Laravel` · `RESTful APIs` · `WebSockets` · `Socket.IO` · `SQL` · `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Prisma ORM`
 
 ### AI / Machine Learning / Computer Vision
 
