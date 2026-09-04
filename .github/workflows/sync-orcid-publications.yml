@@ -1,0 +1,50 @@
+name: Sync ORCID Publications
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/sync-orcid-publications.yml'
+      - 'scripts/sync_orcid.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: orcid-publications-sync
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync public ORCID works into README
+        run: python scripts/sync_orcid.py
+
+      - name: Commit ORCID publication update
+        shell: bash
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No ORCID publication changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: sync ORCID publications [skip ci]"
+          git push
