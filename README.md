@@ -1,12 +1,22 @@
 <div align="center">
 
-<a href="https://smsagor.com">
+<a href="https://smshagor.com">
   <img
     src="./assets/profile-hero.svg"
     width="100%"
     alt="Animated professional profile hero for Shahanur Islam Shagor"
   />
 </a>
+
+<p align="center">
+  <a href="https://wa.me/79954949836"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://t.me/smshagor1"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://facebook.com/smshagor1"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/sm_shagor1"><img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:smshagor.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://smshagor.com"><img src="https://img.shields.io/badge/Website-smshagor.com-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/sm-shagor/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 # <code>The Cipher Stack</code>
 
@@ -36,7 +46,7 @@ Across my projects, I have worked on **scalable web platforms, local-first AI ap
 I approach engineering with a strong product and systems mindset: **clean architecture, secure-by-design decisions, measurable performance, maintainable code, thoughtful UI/UX, automation, and reliable deployment**. I’m especially interested in work where software must do more than function—it needs to be **useful, resilient, scalable, and technically sound**.
 
 - Based in **Voronezh, Russia · UTC+3**
-- Portfolio: **https://smsagor.com**
+- Portfolio: **https://smshagor.com**
 - GitHub: **@smshagor-dev**
 - Email: **smshagor.dev@gmail.com**
 - Core Focus: **Full-Stack Engineering · AI/ML · Autonomous Systems · Edge AI · Applied Security**
@@ -216,10 +226,10 @@ An advanced browser-based development environment with Monaco Editor, multi-file
 ### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go,php" alt="TypeScript JavaScript Python C++ Go PHP" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go,php,rust" alt="TypeScript JavaScript Python C++ Go PHP Rust" />
 </p>
 
-`TypeScript` · `JavaScript` · `Python` · `C++20` · `Go` · `PHP`
+`TypeScript` · `JavaScript` · `Python` · `C++20` · `Go` · `PHP` · `Rust`
 
 ### Frontend / 3D
 
@@ -343,18 +353,18 @@ Machine learning · Deep learning · Neural networks · Supervised and unsupervi
 <a href="https://github.com/smshagor-dev">
   <img src="https://img.shields.io/badge/GitHub-smshagor--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://smsagor.com">
-  <img src="https://img.shields.io/badge/Portfolio-smsagor.com-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=0d0d0d&labelColor=D4AF37" alt="Portfolio" />
+<a href="https://smshagor.com">
+  <img src="https://img.shields.io/badge/Portfolio-smshagor.com-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=0d0d0d&labelColor=D4AF37" alt="Portfolio" />
 </a>
 
 <br/><br/>
 
-<a href="https://smsagor.com">
+<a href="https://smshagor.com">
   <img
-    src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fsmsagor.com"
+    src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fsmshagor.com"
     width="150"
     height="150"
-    alt="QR code for smsagor.com"
+    alt="QR code for smshagor.com"
   />
 </a>
 
@@ -376,8 +386,8 @@ Designing software and intelligent systems for the web, the edge, and autonomous
 
 <br/><br/>
 
-<a href="https://smsagor.com">
-  <img src="https://img.shields.io/badge/PORTFOLIO-smsagor.com-D4AF37?style=for-the-badge&labelColor=0d0d0d" alt="Portfolio link" />
+<a href="https://smshagor.com">
+  <img src="https://img.shields.io/badge/PORTFOLIO-smshagor.com-D4AF37?style=for-the-badge&labelColor=0d0d0d" alt="Portfolio link" />
 </a>
 
 <br/><br/>
