@@ -27,15 +27,19 @@
 
 ## <code>About Me</code>
 
-I’m **Shahanur Islam Shagor**, a **Full-Stack Developer and AI / Autonomous Systems Engineer** focused on building scalable software, intelligent applications, edge-AI systems, autonomous platforms, and applied security research.
+I’m **Shahanur Islam Shagor**, a **Full-Stack Web Developer and AI / Autonomous Systems Engineer** focused on building dependable software and intelligent systems that connect the **web, AI, edge computing, and the physical world**.
 
-My work sits at the intersection of **web engineering, machine learning, computer vision, sensor fusion, embedded systems, robotics, distributed systems, and cybersecurity**. I care about clean architecture, measurable performance, maintainability, strong security boundaries, and turning complex ideas into systems that actually work.
+My work spans **full-stack product engineering, machine learning, computer vision, autonomous systems, distributed architectures, and applied cybersecurity**. I enjoy taking complex problems from idea to implementation—designing the architecture, building the product, integrating intelligent components, validating performance, strengthening security, and shipping systems that are practical to use and maintain.
+
+Across my projects, I have worked on **scalable web platforms, local-first AI applications, edge-AI systems, UAV navigation and sensor fusion, privacy-preserving machine learning, secure connected systems, and research-driven engineering prototypes**. What matters most to me is not adding technology for its own sake, but choosing the right engineering approach for the problem and making the result reliable in real-world conditions.
+
+I approach engineering with a strong product and systems mindset: **clean architecture, secure-by-design decisions, measurable performance, maintainable code, thoughtful UI/UX, automation, and reliable deployment**. I’m especially interested in work where software must do more than function—it needs to be **useful, resilient, scalable, and technically sound**.
 
 - Based in **Voronezh, Russia · UTC+3**
 - Portfolio: **https://smsagor.com**
 - GitHub: **@smshagor-dev**
 - Email: **smshagor.dev@gmail.com**
-- Focus: **Full-Stack Engineering · AI/ML · Autonomous Systems · Edge AI · Applied Security**
+- Core Focus: **Full-Stack Engineering · AI/ML · Autonomous Systems · Edge AI · Applied Security**
 
 ---
 
