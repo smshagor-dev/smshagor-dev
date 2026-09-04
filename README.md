@@ -223,67 +223,55 @@ An advanced browser-based development environment with Monaco Editor, multi-file
 
 ## <code>Tech Arsenal</code>
 
-### Programming Languages
+A work-aligned stack built from the technologies I use across **production web platforms, local-first AI, mobile and desktop applications, autonomous systems, edge computing, applied security, distributed systems, and research engineering**.
+
+### Languages & Scripting
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go,php,rust" alt="TypeScript JavaScript Python C++ Go PHP Rust" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go,php,rust,dart,kotlin,java,bash,powershell&perline=12" alt="TypeScript JavaScript Python C++ Go PHP Rust Dart Kotlin Java Bash PowerShell icons" />
 </p>
 
-`TypeScript` · `JavaScript` · `Python` · `C++20` · `Go` · `PHP` · `Rust`
+`TypeScript` · `JavaScript` · `Python` · `C++20` · `Go` · `PHP` · `Rust` · `Dart` · `Kotlin` · `Java` · `Bash` · `PowerShell`
 
-### Frontend / 3D
+### Web / UI / 3D
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css,vite" alt="Frontend technology icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,materialui,sass,vite,threejs,figma&perline=11" alt="HTML CSS React Next.js Tailwind Bootstrap Material UI Sass Vite Three.js Figma icons" />
 </p>
 
-`React` · `Next.js` · `Tailwind CSS` · `Three.js` · `HTML` · `CSS` · `Vite`
+`HTML5` · `CSS3` · `React` · `Next.js` · `Tailwind CSS` · `Bootstrap` · `Material UI` · `Sass / SCSS` · `Vite` · `Three.js` · `Figma`
 
-### Backend / Database
+<img src="./assets/tech/software-platform.svg" width="100%" alt="Extended web backend API realtime data and platform engineering icons" />
+
+### Backend / Data / Platform Core
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mysql,mongodb,redis,prisma" alt="Backend and database technology icons" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,strapi,postgres,mysql,mongodb,redis,sqlite,prisma,firebase&perline=11" alt="Node.js Express Laravel Strapi PostgreSQL MySQL MongoDB Redis SQLite Prisma Firebase icons" />
 </p>
 
-`Node.js` · `Express.js` · `Laravel` · `RESTful APIs` · `WebSockets` · `Socket.IO` · `SQL` · `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Prisma ORM`
+`Node.js` · `Express.js` · `Laravel` · `Strapi` · `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `SQLite` · `Prisma ORM` · `Firebase`
 
-### AI / Machine Learning / Computer Vision
+### AI / ML / Computer Vision / Mobile / Native Core
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python" alt="AI machine learning and computer vision icons" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,flutter,android,tauri,raspberrypi,arduino,qt,cmake&perline=11" alt="PyTorch TensorFlow Scikit-learn OpenCV Flutter Android Tauri Raspberry Pi Arduino Qt CMake icons" />
 </p>
 
-`PyTorch` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `NumPy` · `Pandas` · `ONNX` · `TensorRT` · `YOLOv8`
+`PyTorch` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `Flutter` · `Android` · `Tauri` · `Raspberry Pi` · `Arduino` · `Qt` · `CMake`
 
-Machine learning · Deep learning · Neural networks · Supervised and unsupervised learning · Transfer learning · Feature engineering · Data preprocessing · Model training and evaluation · Inference optimization · Object detection · Image classification · Real-time video analytics · Dataset preparation · Model fine-tuning
+<img src="./assets/tech/ai-workflows.svg" width="100%" alt="Machine learning and computer vision workflow icons" />
 
-### Autonomous Systems / Robotics
+<img src="./assets/tech/intelligent-systems.svg" width="100%" alt="AI native performance autonomous systems robotics and edge engineering icons" />
 
-`Sensor Fusion` · `ESKF` · `VIO` · `UWB/TDOA Localization` · `LiDAR Integration` · `Autonomous Navigation` · `Localization` · `Perception Systems`
-
-### Mobile / Edge Systems
+### Security / Cloud / Observability / Quality
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino" alt="Embedded and edge system icons" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,aws,gcp,kubernetes&perline=9" alt="Docker Nginx Linux Git GitHub GitHub Actions AWS Google Cloud Kubernetes icons" />
 </p>
 
-`ESP32` · `Raspberry Pi` · `NVIDIA Jetson` · `Linux / ROS` · `Edge Inference` · `Hardware-Software Integration` · `whisper.cpp`
+`Docker` · `Nginx` · `Linux` · `Git` · `GitHub` · `GitHub Actions` · `AWS` · `Google Cloud` · `Kubernetes`
 
-### Security / Applied Research
-
-`V2X Security` · `Post-Quantum Cryptography` · `ML-KEM` · `Zero-Knowledge Proofs` · `Pedersen Commitments` · `mTLS` · `Federated Learning Prototypes`
-
-### Tools / DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,aws,gcp,postman" alt="DevOps and infrastructure technology icons" />
-</p>
-
-`Docker` · `Nginx` · `Linux` · `Git / GitHub` · `CI/CD` · `AWS` · `Google Cloud` · `DigitalOcean`
-
-### Testing / Quality
-
-`Jest` · `PyTest` · `PHPUnit` · `Postman` · `Supertest` · `k6` · `Artillery`
+<img src="./assets/tech/security-ops-quality.svg" width="100%" alt="Security cryptography privacy observability DevOps testing and quality engineering icons" />
 
 ---
 
