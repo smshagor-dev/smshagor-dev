@@ -66,14 +66,9 @@ I approach engineering with a strong product and systems mindset: **clean archit
 <!-- ORCID-PUBLICATIONS:START -->
 ## <code>Research & Publications</code>
 
-<p align="left">
-  <a href="https://orcid.org/0009-0003-7730-3202"><img src="https://img.shields.io/badge/ORCID-0009-0003-7730-3202-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID 0009-0003-7730-3202" /></a>
-  <img src="https://img.shields.io/badge/Public%20Works-12-2f81f7?style=for-the-badge" alt="12 public ORCID works" />
-  <img src="https://img.shields.io/badge/Published-0-238636?style=for-the-badge" alt="0 published works" />
-  <img src="https://img.shields.io/badge/Preprints-12-bf8700?style=for-the-badge" alt="12 preprints" />
-</p>
+<a href="https://orcid.org/0009-0003-7730-3202"><img src="./assets/research/orcid-stats.svg" width="100%" alt="ORCID research statistics: 12 public works, 0 published, 12 preprints" /></a>
 
-> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **04 Sep 2026, 14:48 UTC**.
+> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **04 Sep 2026, 14:51 UTC**.
 
 ### Published Works
 
