@@ -55,67 +55,94 @@ I approach engineering with a strong product and systems mindset: **clean archit
 
 ## <code>Featured Gallery</code>
 
+A curated selection of my strongest work across **AI systems, autonomous platforms, cybersecurity, privacy-preserving ML, edge intelligence, real-time software, and production-grade full-stack engineering**.
+
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### [UVA-GPS-Denied-Navigation-in-Dynamic-Environments](https://github.com/smshagor-dev/UVA-GPS-Denied-Navigation-in-Dynamic-Environments)
-
-<a href="https://github.com/smshagor-dev/UVA-GPS-Denied-Navigation-in-Dynamic-Environments">
-  <img src="./assets/projects/uav-gps-denied.svg" width="100%" alt="UAV GPS-Denied Navigation cinematic project cover" />
-</a>
-
-Autonomous navigation research for UAV operation in GPS-denied and dynamic environments, centered on robust localization, perception, sensor fusion, and resilient navigation pipelines.
-
-</td>
-<td width="50%" valign="top">
-
-### [Next-Gen-Blockchain-for-Vehicle-Security](https://github.com/smshagor-dev/Next-Gen-Blockchain-for-Vehicle-Security)
-
-<a href="https://github.com/smshagor-dev/Next-Gen-Blockchain-for-Vehicle-Security">
-  <img src="./assets/projects/v2x-security.svg" width="100%" alt="Next-Gen Vehicle Security cinematic project cover" />
-</a>
-
-Applied vehicle-security research combining decentralized trust, modern cryptography, authenticated communication, and security architecture for connected mobility systems.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [Federated-Learning-on-Non-IID-Data-Differential-Privacy](https://github.com/smshagor-dev/Federated-Learning-on-Non-IID-Data-Differential-Privacy)
-
-<a href="https://github.com/smshagor-dev/Federated-Learning-on-Non-IID-Data-Differential-Privacy">
-  <img src="./assets/projects/federated-learning-dp.svg" width="100%" alt="Federated Learning and Differential Privacy cinematic project cover" />
-</a>
-
-Federated-learning experimentation for non-IID environments with privacy-preserving training, differential privacy, distributed evaluation, and practical ML analysis.
-
-</td>
-<td width="50%" valign="top">
-
-### [wireless-Vision-Aid-for-the-blind](https://github.com/smshagor-dev/wireless-Vision-Aid-for-the-blind)
-
-<a href="https://github.com/smshagor-dev/wireless-Vision-Aid-for-the-blind">
-  <img src="./assets/projects/wvab-vision-aid.svg" width="100%" alt="Wireless Vision Aid cinematic project cover" />
-</a>
-
-Edge-computer-vision assistive system exploring real-time scene understanding, object detection, wireless processing, and accessible guidance for visually impaired users.
-
-</td>
-</tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### [OpenMindAI](https://github.com/smshagor-dev/OpenMindAI)
 
 <a href="https://github.com/smshagor-dev/OpenMindAI">
-  <img src="./assets/projects/openmindai.svg" width="100%" alt="OpenMindAI cinematic project cover" />
+  <img src="./assets/projects/featured/openmindai.svg" width="100%" alt="OpenMindAI local-first AI workstation project cover" />
 </a>
 
-A local-first AI platform designed around private on-device intelligence, model orchestration, practical assistant workflows, and offline-capable experiences.
+A local-first desktop AI workstation for private on-device inference, model and runtime management, agents, workspaces, portable storage, media workflows, and offline-capable intelligent assistance.
+
+</td>
+<td width="50%" valign="top">
+
+### [ZeroTrust-FL-Sim](https://github.com/smshagor-dev/ZeroTrust-FL-Sim)
+
+<a href="https://github.com/smshagor-dev/ZeroTrust-FL-Sim">
+  <img src="./assets/projects/featured/zerotrust-fl.svg" width="100%" alt="ZeroTrust-FL-Sim federated learning security project cover" />
+</a>
+
+A zero-trust federated-learning security testbed combining Byzantine-robust aggregation, adversarial clients, differential privacy, CKKS, post-quantum transport, SIMD/CUDA acceleration, chaos engineering, and full observability.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [UAV GPS-Denied Navigation](https://github.com/smshagor-dev/UVA-GPS-Denied-Navigation-in-Dynamic-Environments)
+
+<a href="https://github.com/smshagor-dev/UVA-GPS-Denied-Navigation-in-Dynamic-Environments">
+  <img src="./assets/projects/featured/uav-gps-denied.svg" width="100%" alt="UAV GPS-denied autonomous navigation project cover" />
+</a>
+
+Autonomous UAV navigation for GPS-denied and dynamic environments using resilient localization, VIO, ESKF-based sensor fusion, UWB/TDOA, LiDAR-aware perception, fault injection, and deterministic validation workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### [AetherMotion](https://github.com/smshagor-dev/AetherMotion)
+
+<a href="https://github.com/smshagor-dev/AetherMotion">
+  <img src="./assets/projects/featured/aethermotion.svg" width="100%" alt="AetherMotion real-time gesture intelligence and spatial AR project cover" />
+</a>
+
+A C++-first real-time gesture intelligence and spatial AR engine with native vision pipelines, gesture classification, smoothing, spatial interaction, replay, telemetry, and low-latency runtime execution.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [Next-Gen V2X Security](https://github.com/smshagor-dev/Next-Gen-Blockchain-for-Vehicle-Security)
+
+<a href="https://github.com/smshagor-dev/Next-Gen-Blockchain-for-Vehicle-Security">
+  <img src="./assets/projects/featured/v2x-security.svg" width="100%" alt="Next-generation connected vehicle security project cover" />
+</a>
+
+Applied vehicle-security research combining decentralized trust, modern cryptography, authenticated communication, post-quantum security concepts, and resilient architecture for connected mobility systems.
+
+</td>
+<td width="50%" valign="top">
+
+### [Secure Autonomous Drone Swarms](https://github.com/smshagor-dev/decentralized-coordination-and-acoustic-localization-in-secure-autonomousa-drone-swarms)
+
+<a href="https://github.com/smshagor-dev/decentralized-coordination-and-acoustic-localization-in-secure-autonomousa-drone-swarms">
+  <img src="./assets/projects/featured/drone-swarms.svg" width="100%" alt="Secure autonomous drone swarm research project cover" />
+</a>
+
+Multi-agent autonomy research spanning decentralized coordination, acoustic localization, secure communication, distributed decision-making, swarm resilience, and cooperative UAV behavior.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [WVAB — Wireless Vision Aid](https://github.com/smshagor-dev/wireless-Vision-Aid-for-the-blind)
+
+<a href="https://github.com/smshagor-dev/wireless-Vision-Aid-for-the-blind">
+  <img src="./assets/projects/featured/wvab.svg" width="100%" alt="Wireless Vision Aid edge computer vision project cover" />
+</a>
+
+A low-cost edge-computer-vision assistive platform for real-time scene understanding, object detection, risk-aware navigation, wireless processing, and multilingual audio guidance for visually impaired users.
 
 </td>
 <td width="50%" valign="top">
@@ -123,10 +150,10 @@ A local-first AI platform designed around private on-device intelligence, model 
 ### [CyberPhotonics-SPR](https://github.com/smshagor-dev/CyberPhotonics-SPR)
 
 <a href="https://github.com/smshagor-dev/CyberPhotonics-SPR">
-  <img src="./assets/projects/cyberphotonics.svg" width="100%" alt="CyberPhotonics SPR cinematic project cover" />
+  <img src="./assets/projects/featured/cyberphotonics.svg" width="100%" alt="CyberPhotonics secure sensing and cyber-physical research project cover" />
 </a>
 
-Research-oriented security engineering exploring cyber-physical and photonic sensing concepts, resilient system design, and software-backed experimental workflows.
+Research-oriented engineering at the intersection of photonic sensing, cyber-physical security, resilient system design, experimental validation, and software-backed secure sensing workflows.
 
 </td>
 </tr>
@@ -134,24 +161,49 @@ Research-oriented security engineering exploring cyber-physical and photonic sen
 <tr>
 <td width="50%" valign="top">
 
-### [decentralized-coordination-and-acoustic-localization-in-secure-autonomousa-drone-swarms](https://github.com/smshagor-dev/decentralized-coordination-and-acoustic-localization-in-secure-autonomousa-drone-swarms)
+### [Federated Learning on Non-IID Data + Differential Privacy](https://github.com/smshagor-dev/Federated-Learning-on-Non-IID-Data-Differential-Privacy)
 
-<a href="https://github.com/smshagor-dev/decentralized-coordination-and-acoustic-localization-in-secure-autonomousa-drone-swarms">
-  <img src="./assets/projects/drone-swarms.svg" width="100%" alt="Secure Autonomous Drone Swarms cinematic project cover" />
+<a href="https://github.com/smshagor-dev/Federated-Learning-on-Non-IID-Data-Differential-Privacy">
+  <img src="./assets/projects/featured/federated-dp.svg" width="100%" alt="Federated learning and differential privacy project cover" />
 </a>
 
-Secure multi-agent autonomy research spanning decentralized coordination, acoustic localization, swarm resilience, and distributed decision-making.
+Privacy-preserving federated-learning experimentation for heterogeneous non-IID environments, combining distributed model training, differential privacy, evaluation, and practical ML analysis.
 
 </td>
 <td width="50%" valign="top">
 
-### [syncchat](https://github.com/smshagor-dev/syncchat)
+### [B2B Global Trade](https://github.com/smshagor-dev/b2b_global_trade)
 
-<a href="https://github.com/smshagor-dev/syncchat">
-  <img src="./assets/projects/syncchat.svg" width="100%" alt="SyncChat cinematic project cover" />
+<a href="https://github.com/smshagor-dev/b2b_global_trade">
+  <img src="./assets/projects/featured/b2b-global-trade.svg" width="100%" alt="B2B Global Trade multi-tenant marketplace project cover" />
 </a>
 
-A real-time communication project focused on synchronized messaging, modern full-stack architecture, responsive UX, and production-oriented communication flows.
+A production-oriented multi-tenant export/import marketplace with RFQs, quotations, supplier verification, live chat, advanced search, payments, 2FA, RBAC, analytics, queues, and Docker-based deployment architecture.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [SyncChat](https://github.com/smshagor-dev/syncchat)
+
+<a href="https://github.com/smshagor-dev/syncchat">
+  <img src="./assets/projects/featured/syncchat.svg" width="100%" alt="SyncChat real-time communication platform project cover" />
+</a>
+
+A modern real-time communication platform focused on synchronized messaging, responsive cross-device UX, production-oriented communication flows, and scalable full-stack architecture.
+
+</td>
+<td width="50%" valign="top">
+
+### [CodeCraft](https://github.com/smshagor-dev/codecraft)
+
+<a href="https://github.com/smshagor-dev/codecraft">
+  <img src="./assets/projects/featured/codecraft.svg" width="100%" alt="CodeCraft advanced online code editor project cover" />
+</a>
+
+An advanced browser-based development environment with Monaco Editor, multi-file projects, a virtual file system, live preview, console tooling, project templates, import/export, and responsive developer workflows.
 
 </td>
 </tr>
