@@ -261,7 +261,13 @@ A work-aligned stack built from the technologies I use across **production web p
 
 <img src="./assets/tech/ai-workflows.svg" width="100%" alt="Machine learning and computer vision workflow icons" />
 
-<img src="./assets/tech/intelligent-systems.svg" width="100%" alt="AI native performance autonomous systems robotics and edge engineering icons" />
+<img src="./assets/tech/ai-runtime.svg" width="100%" alt="AI runtime and computer vision icons" />
+
+<img src="./assets/tech/native-performance.svg" width="100%" alt="Native and performance engineering icons" />
+
+<img src="./assets/tech/autonomous-systems.svg" width="100%" alt="Autonomous systems and robotics icons" />
+
+<img src="./assets/tech/edge-embedded.svg" width="100%" alt="Edge and embedded engineering icons" />
 
 ### Security / Cloud / Observability / Quality
 
@@ -271,7 +277,11 @@ A work-aligned stack built from the technologies I use across **production web p
 
 `Docker` · `Nginx` · `Linux` · `Git` · `GitHub` · `GitHub Actions` · `AWS` · `Google Cloud` · `Kubernetes`
 
-<img src="./assets/tech/security-ops-quality.svg" width="100%" alt="Security cryptography privacy observability DevOps testing and quality engineering icons" />
+<img src="./assets/tech/security-privacy.svg" width="100%" alt="Security cryptography and privacy engineering icons" />
+
+<img src="./assets/tech/cloud-observability.svg" width="100%" alt="Cloud DevOps and observability icons" />
+
+<img src="./assets/tech/testing-quality.svg" width="100%" alt="Testing and quality engineering icons" />
 
 ---
 
