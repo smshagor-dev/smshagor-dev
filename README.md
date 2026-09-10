@@ -66,9 +66,9 @@ I approach engineering with a strong product and systems mindset: **clean archit
 <!-- ORCID-PUBLICATIONS:START -->
 ## <code>Research & Publications</code>
 
-<a href="https://orcid.org/0009-0003-7730-3202"><img src="./assets/research/orcid-stats.svg" width="100%" alt="ORCID research statistics: 12 public works, 0 published, 12 preprints" /></a>
+<a href="https://orcid.org/0009-0003-7730-3202"><img src="./assets/research/orcid-stats.svg" width="100%" alt="ORCID research statistics: 16 public works, 0 published, 16 preprints" /></a>
 
-> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **10 Sep 2026, 04:51 UTC**.
+> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **10 Sep 2026, 11:28 UTC**.
 
 ### Published Works
 
@@ -76,18 +76,22 @@ _No works currently classified by ORCID as published/formal outputs._
 
 ### Preprints
 
-1. **[Adaptive Edge Intelligence for Low-Latency Assistive Vision under Dynamic Network and Computational Constraints](https://doi.org/10.21203/rs.3.rs-10901871/v1)** — 2026-09-03 · `Preprint`
-2. **[Fabrication-constrained tandem inverse design of photonic crystal fiber SPR sensors with uncertainty-aware Pareto screening](https://doi.org/10.21203/rs.3.rs-10905069/v1)** — 2026-09-03 · `Preprint`
-3. **[Risk-Aware Adaptive Video Processing with Freshness Control for Low-Latency Assistive Vision](https://doi.org/10.21203/rs.3.rs-10902455/v1)** — 2026-09-03 · `Preprint`
-4. **[A Secure Offline Edge Architecture for Wearable Vision Assistance: Raspberry Pi-ESP32-CAM Integration and Reproducible Software Validation](https://doi.org/10.21203/rs.3.rs-10891677/v1)** — 2026-09-02 · `Preprint`
-5. **[WVAB: A Low-Latency Wireless Assistive Vision Framework for Risk-Aware Navigation and Multilingual Audio Guidance](https://doi.org/10.21203/rs.3.rs-10854126/v1)** — 2026-08-31 · `Preprint`
-6. **[Toward Blockchain-Assisted Zero-Trust Secure Communication for Decentralized UAV Swarms in GPS-Denied Environments: A Mathematical Security and Scalability Framework](https://doi.org/10.20944/preprints202608.2000.v1)** — 2026-08-27 · `Preprint`
-7. **[Cyber-Resilience and Trust-Aware Command Authorization for Autonomous UAV Swarms in GPS-Denied Environments](https://doi.org/10.21203/rs.3.rs-10812590/v1)** — 2026-08-26 · `Preprint`
-8. **[Decentralized Coordination and Acoustic Source Localization in Autonomous Drone Swarms](https://doi.org/10.21203/rs.3.rs-10812536/v1)** — 2026-08-26 · `Preprint`
-9. **[OmniGuard V2X: A Hybrid-Security Prototype Framework with Assumption-Aware Validation for Smart Vehicle Systems](https://doi.org/10.21203/rs.3.rs-10813996/v1)** — 2026-08-26 · `Preprint`
-10. **[Policy-Gated Firmware Trust and Anti-Rollback Resilience for Autonomous UAV Edge Platforms: A Formal Security and Software Validation](https://doi.org/10.21203/rs.3.rs-10812592/v1)** — 2026-08-26 · `Preprint`
-11. **[Sequence-, Epoch-, and Integrity-Aware Detection of Replay and Peer-Spoofing Attacks in Decentralized UAV Mesh Networks: A Software-Validated Security Framework](https://doi.org/10.21203/rs.3.rs-10812593/v1)** — 2026-08-26 · `Preprint`
-12. **[Toward Secure Decentralized Coordination and Acoustic Source Localization in Autonomous Drone Swarms](https://doi.org/10.21203/rs.3.rs-10530148/v1)** — 2026-07-31 · `Preprint`
+1. **[A Severity-Calibrated Adversarial Benchmark for Federated Learning: From Label Corruption to Structured Model-Update Injection](https://doi.org/10.21203/rs.3.rs-10976314/v1)** — 2026-09-10 · `Preprint`
+2. **[Native Byzantine-Robust Aggregation for Trustworthy Federated Learning: A C++20 Evaluation of Krum, Multi-Krum, Trimmed Mean, and Coordinate-wise Median](https://doi.org/10.21203/rs.3.rs-10973784/v1)** — 2026-09-10 · `Preprint`
+3. **[Policy-Gated Zero-Trust Federated Learning: Identity-Bound Enrollment, Replay-Resistant Control, and Secure Coordination](https://doi.org/10.21203/rs.3.rs-10973795/v1)** — 2026-09-10 · `Preprint`
+4. **[Quorum-Bounded Asynchronous Federated Learning under Non-IID Data and Adversarial Clients: A Systems Study of Stale-Update Exclusion and Convergence](https://doi.org/10.21203/rs.3.rs-10975675/v1)** — 2026-09-10 · `Preprint`
+5. **[Adaptive Edge Intelligence for Low-Latency Assistive Vision under Dynamic Network and Computational Constraints](https://doi.org/10.21203/rs.3.rs-10901871/v1)** — 2026-09-03 · `Preprint`
+6. **[Fabrication-constrained tandem inverse design of photonic crystal fiber SPR sensors with uncertainty-aware Pareto screening](https://doi.org/10.21203/rs.3.rs-10905069/v1)** — 2026-09-03 · `Preprint`
+7. **[Risk-Aware Adaptive Video Processing with Freshness Control for Low-Latency Assistive Vision](https://doi.org/10.21203/rs.3.rs-10902455/v1)** — 2026-09-03 · `Preprint`
+8. **[A Secure Offline Edge Architecture for Wearable Vision Assistance: Raspberry Pi-ESP32-CAM Integration and Reproducible Software Validation](https://doi.org/10.21203/rs.3.rs-10891677/v1)** — 2026-09-02 · `Preprint`
+9. **[WVAB: A Low-Latency Wireless Assistive Vision Framework for Risk-Aware Navigation and Multilingual Audio Guidance](https://doi.org/10.21203/rs.3.rs-10854126/v1)** — 2026-08-31 · `Preprint`
+10. **[Toward Blockchain-Assisted Zero-Trust Secure Communication for Decentralized UAV Swarms in GPS-Denied Environments: A Mathematical Security and Scalability Framework](https://doi.org/10.20944/preprints202608.2000.v1)** — 2026-08-27 · `Preprint`
+11. **[Cyber-Resilience and Trust-Aware Command Authorization for Autonomous UAV Swarms in GPS-Denied Environments](https://doi.org/10.21203/rs.3.rs-10812590/v1)** — 2026-08-26 · `Preprint`
+12. **[Decentralized Coordination and Acoustic Source Localization in Autonomous Drone Swarms](https://doi.org/10.21203/rs.3.rs-10812536/v1)** — 2026-08-26 · `Preprint`
+13. **[OmniGuard V2X: A Hybrid-Security Prototype Framework with Assumption-Aware Validation for Smart Vehicle Systems](https://doi.org/10.21203/rs.3.rs-10813996/v1)** — 2026-08-26 · `Preprint`
+14. **[Policy-Gated Firmware Trust and Anti-Rollback Resilience for Autonomous UAV Edge Platforms: A Formal Security and Software Validation](https://doi.org/10.21203/rs.3.rs-10812592/v1)** — 2026-08-26 · `Preprint`
+15. **[Sequence-, Epoch-, and Integrity-Aware Detection of Replay and Peer-Spoofing Attacks in Decentralized UAV Mesh Networks: A Software-Validated Security Framework](https://doi.org/10.21203/rs.3.rs-10812593/v1)** — 2026-08-26 · `Preprint`
+16. **[Toward Secure Decentralized Coordination and Acoustic Source Localization in Autonomous Drone Swarms](https://doi.org/10.21203/rs.3.rs-10530148/v1)** — 2026-07-31 · `Preprint`
 
 <!-- ORCID-PUBLICATIONS:END -->
 

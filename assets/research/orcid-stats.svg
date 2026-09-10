@@ -8,12 +8,12 @@
   <text x="94" y="49" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">ORCID</text>
   <text x="94" y="73" fill="#8b949e" font-family="Consolas,monospace" font-size="14">0009-0003-7730-3202</text>
   <line x1="350" y1="25" x2="350" y2="95" stroke="#30363d"/>
-  <text x="445" y="50" text-anchor="middle" fill="#58a6ff" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">12</text>
+  <text x="445" y="50" text-anchor="middle" fill="#58a6ff" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">16</text>
   <text x="445" y="76" text-anchor="middle" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">PUBLIC WORKS</text>
   <line x1="540" y1="25" x2="540" y2="95" stroke="#30363d"/>
   <text x="635" y="50" text-anchor="middle" fill="#3fb950" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">0</text>
   <text x="635" y="76" text-anchor="middle" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">PUBLISHED</text>
   <line x1="730" y1="25" x2="730" y2="95" stroke="#30363d"/>
-  <text x="850" y="50" text-anchor="middle" fill="#d4af37" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">12</text>
+  <text x="850" y="50" text-anchor="middle" fill="#d4af37" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">16</text>
   <text x="850" y="76" text-anchor="middle" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">PREPRINTS</text>
 </svg>
