@@ -66,9 +66,9 @@ I approach engineering with a strong product and systems mindset: **clean archit
 <!-- ORCID-PUBLICATIONS:START -->
 ## <code>Research & Publications</code>
 
-<a href="https://orcid.org/0009-0003-7730-3202"><img src="./assets/research/orcid-stats.svg" width="100%" alt="ORCID research statistics: 16 public works, 0 published, 16 preprints" /></a>
+<a href="https://orcid.org/0009-0003-7730-3202"><img src="./assets/research/orcid-stats.svg" width="100%" alt="ORCID research statistics: 17 public works, 0 published, 17 preprints" /></a>
 
-> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **15 Sep 2026, 21:26 UTC**.
+> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **16 Sep 2026, 04:56 UTC**.
 
 ### Published Works
 
@@ -92,6 +92,7 @@ _No works currently classified by ORCID as published/formal outputs._
 14. **[Policy-Gated Firmware Trust and Anti-Rollback Resilience for Autonomous UAV Edge Platforms: A Formal Security and Software Validation](https://doi.org/10.21203/rs.3.rs-10812592/v1)** — 2026-08-26 · `Preprint`
 15. **[Sequence-, Epoch-, and Integrity-Aware Detection of Replay and Peer-Spoofing Attacks in Decentralized UAV Mesh Networks: A Software-Validated Security Framework](https://doi.org/10.21203/rs.3.rs-10812593/v1)** — 2026-08-26 · `Preprint`
 16. **[Toward Secure Decentralized Coordination and Acoustic Source Localization in Autonomous Drone Swarms](https://doi.org/10.21203/rs.3.rs-10530148/v1)** — 2026-07-31 · `Preprint`
+17. **[CyberPhotonics-SPR: An auditable research workflow for uncertainty-aware inverse design of PCF-SPR sensors](https://doi.org/10.2139/ssrn.7467869)** — 2026 · `Preprint`
 
 <!-- ORCID-PUBLICATIONS:END -->
 
