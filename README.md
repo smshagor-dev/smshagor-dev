@@ -98,107 +98,28 @@ _No works currently classified by ORCID as published/formal outputs._
 
 ---
 
-## <code>Featured Gallery</code>
+## <code>Research Projects</code>
 
-A curated selection of my strongest work across **AI systems, autonomous platforms, cybersecurity, privacy-preserving ML, edge intelligence, real-time software, and production-grade full-stack engineering**.
+My core research portfolio spans **autonomous systems, trustworthy and privacy-preserving AI, cyber-physical security, edge intelligence, V2X, photonic sensing, and safety-oriented industrial AI**.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [OpenMindAI](https://github.com/smshagor-dev/OpenMindAI)
-
-<a href="https://github.com/smshagor-dev/OpenMindAI">
-  <img src="./assets/projects/featured/openmindai.svg" width="100%" alt="OpenMindAI local-first AI workstation project cover" />
-</a>
-
-A local-first desktop AI workstation for private on-device inference, model and runtime management, agents, workspaces, portable storage, media workflows, and offline-capable intelligent assistance.
-
-</td>
-<td width="50%" valign="top">
-
-### [ZeroTrust-FL-Sim](https://github.com/smshagor-dev/ZeroTrust-FL-Sim)
-
-<a href="https://github.com/smshagor-dev/ZeroTrust-FL-Sim">
-  <img src="./assets/projects/featured/zerotrust-fl.svg" width="100%" alt="ZeroTrust-FL-Sim federated learning security project cover" />
-</a>
-
-A zero-trust federated-learning security testbed combining Byzantine-robust aggregation, adversarial clients, differential privacy, CKKS, post-quantum transport, SIMD/CUDA acceleration, chaos engineering, and full observability.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
 ### [UAV GPS-Denied Navigation](https://github.com/smshagor-dev/UVA-GPS-Denied-Navigation-in-Dynamic-Environments)
 
-<a href="https://github.com/smshagor-dev/UVA-GPS-Denied-Navigation-in-Dynamic-Environments">
-  <img src="./assets/projects/featured/uav-gps-denied.svg" width="100%" alt="UAV GPS-denied autonomous navigation project cover" />
-</a>
+Autonomous UAV navigation in GPS-denied and dynamic environments using resilient localization, VIO, ESKF-based sensor fusion, UWB/TDOA, LiDAR-aware perception, fault injection, and deterministic validation.
 
-Autonomous UAV navigation for GPS-denied and dynamic environments using resilient localization, VIO, ESKF-based sensor fusion, UWB/TDOA, LiDAR-aware perception, fault injection, and deterministic validation workflows.
-
-</td>
-<td width="50%" valign="top">
-
-### [AetherMotion](https://github.com/smshagor-dev/AetherMotion)
-
-<a href="https://github.com/smshagor-dev/AetherMotion">
-  <img src="./assets/projects/featured/aethermotion.svg" width="100%" alt="AetherMotion real-time gesture intelligence and spatial AR project cover" />
-</a>
-
-A C++-first real-time gesture intelligence and spatial AR engine with native vision pipelines, gesture classification, smoothing, spatial interaction, replay, telemetry, and low-latency runtime execution.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [Next-Gen V2X Security](https://github.com/smshagor-dev/Next-Gen-Blockchain-for-Vehicle-Security)
-
-<a href="https://github.com/smshagor-dev/Next-Gen-Blockchain-for-Vehicle-Security">
-  <img src="./assets/projects/featured/v2x-security.svg" width="100%" alt="Next-generation connected vehicle security project cover" />
-</a>
-
-Applied vehicle-security research combining decentralized trust, modern cryptography, authenticated communication, post-quantum security concepts, and resilient architecture for connected mobility systems.
+**Research focus:** Autonomous Systems · Robotics · Sensor Fusion · GPS-Denied Navigation
 
 </td>
 <td width="50%" valign="top">
 
 ### [Secure Autonomous Drone Swarms](https://github.com/smshagor-dev/decentralized-coordination-and-acoustic-localization-in-secure-autonomousa-drone-swarms)
 
-<a href="https://github.com/smshagor-dev/decentralized-coordination-and-acoustic-localization-in-secure-autonomousa-drone-swarms">
-  <img src="./assets/projects/featured/drone-swarms.svg" width="100%" alt="Secure autonomous drone swarm research project cover" />
-</a>
+Research on decentralized coordination, acoustic source localization, secure communication, distributed decision-making, swarm resilience, and cooperative behavior in autonomous UAV systems.
 
-Multi-agent autonomy research spanning decentralized coordination, acoustic localization, secure communication, distributed decision-making, swarm resilience, and cooperative UAV behavior.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [WVAB — Wireless Vision Aid](https://github.com/smshagor-dev/wireless-Vision-Aid-for-the-blind)
-
-<a href="https://github.com/smshagor-dev/wireless-Vision-Aid-for-the-blind">
-  <img src="./assets/projects/featured/wvab.svg" width="100%" alt="Wireless Vision Aid edge computer vision project cover" />
-</a>
-
-A low-cost edge-computer-vision assistive platform for real-time scene understanding, object detection, risk-aware navigation, wireless processing, and multilingual audio guidance for visually impaired users.
-
-</td>
-<td width="50%" valign="top">
-
-### [CyberPhotonics-SPR](https://github.com/smshagor-dev/CyberPhotonics-SPR)
-
-<a href="https://github.com/smshagor-dev/CyberPhotonics-SPR">
-  <img src="./assets/projects/featured/cyberphotonics.svg" width="100%" alt="CyberPhotonics secure sensing and cyber-physical research project cover" />
-</a>
-
-Research-oriented engineering at the intersection of photonic sensing, cyber-physical security, resilient system design, experimental validation, and software-backed secure sensing workflows.
+**Research focus:** Multi-Agent Robotics · Swarm Intelligence · Acoustic Localization · UAV Security
 
 </td>
 </tr>
@@ -208,22 +129,18 @@ Research-oriented engineering at the intersection of photonic sensing, cyber-phy
 
 ### [Federated Learning on Non-IID Data + Differential Privacy](https://github.com/smshagor-dev/Federated-Learning-on-Non-IID-Data-Differential-Privacy)
 
-<a href="https://github.com/smshagor-dev/Federated-Learning-on-Non-IID-Data-Differential-Privacy">
-  <img src="./assets/projects/featured/federated-dp.svg" width="100%" alt="Federated learning and differential privacy project cover" />
-</a>
+Privacy-preserving federated-learning experimentation for heterogeneous non-IID environments, combining distributed training, differential privacy, convergence analysis, and reproducible evaluation workflows.
 
-Privacy-preserving federated-learning experimentation for heterogeneous non-IID environments, combining distributed model training, differential privacy, evaluation, and practical ML analysis.
+**Research focus:** Federated Learning · Non-IID Data · Differential Privacy · Trustworthy AI
 
 </td>
 <td width="50%" valign="top">
 
-### [B2B Global Trade](https://github.com/smshagor-dev/b2b_global_trade)
+### [ZeroTrust-FL-Sim](https://github.com/smshagor-dev/ZeroTrust-FL-Sim)
 
-<a href="https://github.com/smshagor-dev/b2b_global_trade">
-  <img src="./assets/projects/featured/b2b-global-trade.svg" width="100%" alt="B2B Global Trade multi-tenant marketplace project cover" />
-</a>
+A federated-learning security testbed for zero-trust coordination, adversarial clients, Byzantine-robust aggregation, privacy mechanisms, replay-resistant control, secure transport, and systems-level resilience evaluation.
 
-A production-oriented multi-tenant export/import marketplace with RFQs, quotations, supplier verification, live chat, advanced search, payments, 2FA, RBAC, analytics, queues, and Docker-based deployment architecture.
+**Research focus:** Secure Federated Learning · Byzantine Robustness · Zero Trust · Privacy-Preserving ML
 
 </td>
 </tr>
@@ -231,24 +148,41 @@ A production-oriented multi-tenant export/import marketplace with RFQs, quotatio
 <tr>
 <td width="50%" valign="top">
 
-### [SyncChat](https://github.com/smshagor-dev/syncchat)
+### [Next-Gen V2X Security](https://github.com/smshagor-dev/Next-Gen-Blockchain-for-Vehicle-Security)
 
-<a href="https://github.com/smshagor-dev/syncchat">
-  <img src="./assets/projects/featured/syncchat.svg" width="100%" alt="SyncChat real-time communication platform project cover" />
-</a>
+Connected-vehicle security research combining decentralized trust, blockchain-assisted coordination, authenticated communication, modern cryptography, post-quantum security concepts, and resilient V2X architecture.
 
-A modern real-time communication platform focused on synchronized messaging, responsive cross-device UX, production-oriented communication flows, and scalable full-stack architecture.
+**Research focus:** V2X Security · Vehicular Networks · Blockchain · Cyber-Physical Security
 
 </td>
 <td width="50%" valign="top">
 
-### [CodeCraft](https://github.com/smshagor-dev/codecraft)
+### [WVAB — Wireless Vision Aid](https://github.com/smshagor-dev/wireless-Vision-Aid-for-the-blind)
 
-<a href="https://github.com/smshagor-dev/codecraft">
-  <img src="./assets/projects/featured/codecraft.svg" width="100%" alt="CodeCraft advanced online code editor project cover" />
-</a>
+An edge-computer-vision assistive research platform for real-time scene understanding, object detection, risk-aware navigation, adaptive video processing, wireless inference, and multilingual audio guidance.
 
-An advanced browser-based development environment with Monaco Editor, multi-file projects, a virtual file system, live preview, console tooling, project templates, import/export, and responsive developer workflows.
+**Research focus:** Edge AI · Computer Vision · Assistive Technology · Intelligent Systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [CyberPhotonics-SPR](https://github.com/smshagor-dev/CyberPhotonics-SPR)
+
+An auditable research workflow for photonic-crystal-fiber SPR sensing with fabrication-aware inverse design, uncertainty-aware optimization, Pareto screening, reproducible experiments, and software-backed validation.
+
+**Research focus:** Photonic Sensing · PCF-SPR · Inverse Design · Uncertainty-Aware Optimization
+
+</td>
+<td width="50%" valign="top">
+
+### [ForgeSense AI](https://github.com/smshagor-dev/ForgeSense-AI)
+
+A hardware/software co-design research platform combining deterministic FPGA safety, ESP32-S3 edge intelligence, predictive-maintenance experimentation, protected low-voltage control, evidence-controlled calibration, and auditable maintenance workflows.
+
+**Research focus:** FPGA Safety · Edge AI · Predictive Maintenance · Industrial Cyber-Physical Systems
 
 </td>
 </tr>
