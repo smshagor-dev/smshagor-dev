@@ -239,6 +239,11 @@ A selection of engineering projects that reflect my work across **local-first AI
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smshagor-dev/OpenMindAI">
+  <img src="./assets/projects/openmindai.png" width="100%" alt="OpenMindAI project visual" />
+</a>
+<br/><br/>
+
 ### [OpenMindAI](https://github.com/smshagor-dev/OpenMindAI)
 
 A local-first AI desktop workstation for private on-device chat, model/runtime management, project workspaces, local agents, connected apps, media tools, portable storage, and maintenance workflows.
@@ -247,6 +252,11 @@ A local-first AI desktop workstation for private on-device chat, model/runtime m
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/smshagor-dev/AetherMotion">
+  <img src="./assets/projects/aethermotion.png" width="100%" alt="AetherMotion project visual" />
+</a>
+<br/><br/>
 
 ### [AetherMotion](https://github.com/smshagor-dev/AetherMotion)
 
@@ -260,6 +270,11 @@ A C++20 real-time gesture intelligence and spatial interaction platform with cam
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smshagor-dev/b2b_global_trade">
+  <img src="./assets/projects/b2b-global-trade.png" width="100%" alt="B2B Global Trade project visual" />
+</a>
+<br/><br/>
+
 ### [B2B Global Trade](https://github.com/smshagor-dev/b2b_global_trade)
 
 A production-oriented B2B export/import marketplace with supplier and buyer workflows, RFQs, quotations, real-time chat, search, subscriptions, analytics, verification, and admin operations.
@@ -268,6 +283,11 @@ A production-oriented B2B export/import marketplace with supplier and buyer work
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/smshagor-dev/Smart-Finance">
+  <img src="./assets/projects/smart-finance.png" width="100%" alt="Smart Finance project visual" />
+</a>
+<br/><br/>
 
 ### [Smart Finance](https://github.com/smshagor-dev/Smart-Finance)
 
@@ -281,6 +301,11 @@ A full-stack finance platform for wallets, income and expenses, transfers, budge
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smshagor-dev/syncchat">
+  <img src="./assets/projects/syncchat.png" width="100%" alt="SyncChat project visual" />
+</a>
+<br/><br/>
+
 ### [SyncChat](https://github.com/smshagor-dev/syncchat)
 
 A real-time communication platform with private and group messaging, channels, communities, stories, file sharing, WebRTC calling, push notifications, moderation, and scalable Redis-backed realtime infrastructure.
@@ -289,6 +314,11 @@ A real-time communication platform with private and group messaging, channels, c
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/smshagor-dev/s2s-translator">
+  <img src="./assets/projects/offline-speech-translator.png" width="100%" alt="Offline Speech-to-Speech Translator project visual" />
+</a>
+<br/><br/>
 
 ### [Offline Speech-to-Speech Translator](https://github.com/smshagor-dev/s2s-translator)
 
@@ -302,6 +332,11 @@ A fully offline Russian-English-Bengali speech translation prototype with a nati
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smshagor-dev/Employee-Management-Workspace">
+  <img src="./assets/projects/employee-management-workspace.png" width="100%" alt="Employee Management Workspace project visual" />
+</a>
+<br/><br/>
+
 ### [Employee Management Workspace](https://github.com/smshagor-dev/Employee-Management-Workspace)
 
 An enterprise HRM workspace with role-based operations, JWT and 2FA authentication, background jobs, realtime updates, shared domain packages, deployment tooling, and production-oriented system documentation.
@@ -310,6 +345,11 @@ An enterprise HRM workspace with role-based operations, JWT and 2FA authenticati
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/smshagor-dev/server-monitor">
+  <img src="./assets/projects/server-monitor.png" width="100%" alt="Server Monitor project visual" />
+</a>
+<br/><br/>
 
 ### [Server Monitor](https://github.com/smshagor-dev/server-monitor)
 
