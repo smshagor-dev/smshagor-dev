@@ -231,6 +231,98 @@ A hardware/software co-design research platform combining deterministic FPGA saf
 
 ---
 
+## <code>Projects</code>
+
+A selection of engineering projects that reflect my work across **local-first AI, native systems, scalable web platforms, real-time communication, enterprise software, and infrastructure tooling**.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [OpenMindAI](https://github.com/smshagor-dev/OpenMindAI)
+
+A local-first AI desktop workstation for private on-device chat, model/runtime management, project workspaces, local agents, connected apps, media tools, portable storage, and maintenance workflows.
+
+**Stack:** Rust · Tauri 2 · React · TypeScript · SQLite · llama.cpp
+
+</td>
+<td width="50%" valign="top">
+
+### [AetherMotion](https://github.com/smshagor-dev/AetherMotion)
+
+A C++20 real-time gesture intelligence and spatial interaction platform with camera tracking, landmark smoothing, gesture classification, AR/fusion, telemetry, deterministic replay, and a Qt operator interface.
+
+**Stack:** C++20 · OpenCV · MediaPipe · Qt6 · Go · Python
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [B2B Global Trade](https://github.com/smshagor-dev/b2b_global_trade)
+
+A production-oriented B2B export/import marketplace with supplier and buyer workflows, RFQs, quotations, real-time chat, search, subscriptions, analytics, verification, and admin operations.
+
+**Stack:** Next.js · TypeScript · Prisma · MySQL · Redis · Socket.IO · Meilisearch
+
+</td>
+<td width="50%" valign="top">
+
+### [Smart Finance](https://github.com/smshagor-dev/Smart-Finance)
+
+A full-stack finance platform for wallets, income and expenses, transfers, budgets, savings goals, debts, receipts, collaboration, reports, notifications, AI insights, and admin operations.
+
+**Stack:** Next.js · React · Node.js · Prisma · MySQL · Recharts
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [SyncChat](https://github.com/smshagor-dev/syncchat)
+
+A real-time communication platform with private and group messaging, channels, communities, stories, file sharing, WebRTC calling, push notifications, moderation, and scalable Redis-backed realtime infrastructure.
+
+**Stack:** React · Node.js · Express · Socket.IO · MongoDB · Redis · WebRTC
+
+</td>
+<td width="50%" valign="top">
+
+### [Offline Speech-to-Speech Translator](https://github.com/smshagor-dev/s2s-translator)
+
+A fully offline Russian-English-Bengali speech translation prototype with a native C++ AI/audio pipeline, Go REST/WebSocket control layer, Python desktop client, and deterministic mock mode for end-to-end validation.
+
+**Stack:** C++ · whisper.cpp · Piper · Go · WebSocket · Python
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [Employee Management Workspace](https://github.com/smshagor-dev/Employee-Management-Workspace)
+
+An enterprise HRM workspace with role-based operations, JWT and 2FA authentication, background jobs, realtime updates, shared domain packages, deployment tooling, and production-oriented system documentation.
+
+**Stack:** Next.js · NestJS · MongoDB · Redis · BullMQ · Socket.IO · Turborepo
+
+</td>
+<td width="50%" valign="top">
+
+### [Server Monitor](https://github.com/smshagor-dev/server-monitor)
+
+A real-time server and URL monitoring dashboard for health checks, latency tracking, live telemetry, authentication, and operational visibility with an optional Python system metrics agent.
+
+**Stack:** React · TypeScript · Node.js · Socket.IO · Python · Docker · Nginx
+
+</td>
+</tr>
+</table>
+
+---
+
 ## <code>Tech Arsenal</code>
 
 A work-aligned stack built from the technologies I use across **production web platforms, local-first AI, mobile and desktop applications, autonomous systems, edge computing, applied security, distributed systems, and research engineering**.
