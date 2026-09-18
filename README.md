@@ -107,6 +107,11 @@ My core research portfolio spans **autonomous systems, trustworthy and privacy-p
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smshagor-dev/UVA-GPS-Denied-Navigation-in-Dynamic-Environments">
+  <img src="./assets/research-projects/uav-gps-denied-navigation.png" width="100%" alt="UAV GPS-Denied Navigation research project visual" />
+</a>
+<br/><br/>
+
 ### [UAV GPS-Denied Navigation](https://github.com/smshagor-dev/UVA-GPS-Denied-Navigation-in-Dynamic-Environments)
 
 Autonomous UAV navigation in GPS-denied and dynamic environments using resilient localization, VIO, ESKF-based sensor fusion, UWB/TDOA, LiDAR-aware perception, fault injection, and deterministic validation.
@@ -115,6 +120,11 @@ Autonomous UAV navigation in GPS-denied and dynamic environments using resilient
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/smshagor-dev/decentralized-coordination-and-acoustic-localization-in-secure-autonomousa-drone-swarms">
+  <img src="./assets/research-projects/secure-autonomous-drone-swarms.png" width="100%" alt="Secure Autonomous Drone Swarms research project visual" />
+</a>
+<br/><br/>
 
 ### [Secure Autonomous Drone Swarms](https://github.com/smshagor-dev/decentralized-coordination-and-acoustic-localization-in-secure-autonomousa-drone-swarms)
 
@@ -128,6 +138,11 @@ Research on decentralized coordination, acoustic source localization, secure com
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smshagor-dev/Federated-Learning-on-Non-IID-Data-Differential-Privacy">
+  <img src="./assets/research-projects/federated-learning-non-iid-dp.png" width="100%" alt="Federated Learning on Non-IID Data + Differential Privacy research project visual" />
+</a>
+<br/><br/>
+
 ### [Federated Learning on Non-IID Data + Differential Privacy](https://github.com/smshagor-dev/Federated-Learning-on-Non-IID-Data-Differential-Privacy)
 
 Privacy-preserving federated-learning experimentation for heterogeneous non-IID environments, combining distributed training, differential privacy, convergence analysis, and reproducible evaluation workflows.
@@ -136,6 +151,11 @@ Privacy-preserving federated-learning experimentation for heterogeneous non-IID 
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/smshagor-dev/ZeroTrust-FL-Sim">
+  <img src="./assets/research-projects/zerotrust-fl-sim.png" width="100%" alt="ZeroTrust-FL-Sim research project visual" />
+</a>
+<br/><br/>
 
 ### [ZeroTrust-FL-Sim](https://github.com/smshagor-dev/ZeroTrust-FL-Sim)
 
@@ -149,6 +169,11 @@ A federated-learning security testbed for zero-trust coordination, adversarial c
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smshagor-dev/Next-Gen-Blockchain-for-Vehicle-Security">
+  <img src="./assets/research-projects/next-gen-v2x-security.png" width="100%" alt="Next-Gen V2X Security research project visual" />
+</a>
+<br/><br/>
+
 ### [Next-Gen V2X Security](https://github.com/smshagor-dev/Next-Gen-Blockchain-for-Vehicle-Security)
 
 Connected-vehicle security research combining decentralized trust, blockchain-assisted coordination, authenticated communication, modern cryptography, post-quantum security concepts, and resilient V2X architecture.
@@ -157,6 +182,11 @@ Connected-vehicle security research combining decentralized trust, blockchain-as
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/smshagor-dev/wireless-Vision-Aid-for-the-blind">
+  <img src="./assets/research-projects/wvab-wireless-vision-aid.png" width="100%" alt="WVAB — Wireless Vision Aid research project visual" />
+</a>
+<br/><br/>
 
 ### [WVAB — Wireless Vision Aid](https://github.com/smshagor-dev/wireless-Vision-Aid-for-the-blind)
 
@@ -170,6 +200,11 @@ An edge-computer-vision assistive research platform for real-time scene understa
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/smshagor-dev/CyberPhotonics-SPR">
+  <img src="./assets/research-projects/cyberphotonics-spr.png" width="100%" alt="CyberPhotonics-SPR research project visual" />
+</a>
+<br/><br/>
+
 ### [CyberPhotonics-SPR](https://github.com/smshagor-dev/CyberPhotonics-SPR)
 
 An auditable research workflow for photonic-crystal-fiber SPR sensing with fabrication-aware inverse design, uncertainty-aware optimization, Pareto screening, reproducible experiments, and software-backed validation.
@@ -178,6 +213,11 @@ An auditable research workflow for photonic-crystal-fiber SPR sensing with fabri
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/smshagor-dev/ForgeSense-AI">
+  <img src="./assets/research-projects/forgesense-ai.png" width="100%" alt="ForgeSense AI research project visual" />
+</a>
+<br/><br/>
 
 ### [ForgeSense AI](https://github.com/smshagor-dev/ForgeSense-AI)
 
