@@ -66,9 +66,9 @@ I approach engineering with a strong product and systems mindset: **clean archit
 <!-- ORCID-PUBLICATIONS:START -->
 ## <code>Research & Publications</code>
 
-<a href="https://orcid.org/0009-0003-7730-3202"><img src="./assets/research/orcid-stats.svg" width="100%" alt="ORCID research statistics: 24 public works, 0 published, 24 preprints" /></a>
+<a href="https://orcid.org/0009-0003-7730-3202"><img src="./assets/research/orcid-stats.svg" width="100%" alt="ORCID research statistics: 25 public works, 0 published, 25 preprints" /></a>
 
-> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **21 Sep 2026, 12:57 UTC**.
+> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **21 Sep 2026, 22:02 UTC**.
 
 ### Published Works
 
@@ -76,30 +76,31 @@ _No works currently classified by ORCID as published/formal outputs._
 
 ### Preprints
 
-1. **[An Identity-Aware Permissioned Blockchain Architecture for Secure Connected Vehicle Communication](https://doi.org/10.21203/rs.3.rs-11073229/v1)** — 2026-09-18 · `Preprint`
-2. **[Beyond Dirichlet Alpha: Realized Client Heterogeneity for Privacy–Utility–Fairness Evaluation in Federated Learning](https://doi.org/10.21203/rs.3.rs-11072587/v1)** — 2026-09-18 · `Preprint`
-3. **[Confidence-Aware ESKF–MSCKF Fusion of Visual–Inertial and UWB/TDOA Measurements for Robust UAV Localization in GPS-Denied Environments](https://doi.org/10.21203/rs.3.rs-11073266/v1)** — 2026-09-18 · `Preprint`
-4. **[Post-Quantum and Trust-Aware Authentication for Permissioned Vehicular Blockchains: Session-Amortized V2X Security with Historical Key Continuity](https://doi.org/10.21203/rs.3.rs-11073259/v1)** — 2026-09-18 · `Preprint`
-5. **[Tamper-Evident Incident Response and Digital Evidence Management for Connected Vehicles Using Permissioned Blockchain](https://doi.org/10.21203/rs.3.rs-11073242/v1)** — 2026-09-18 · `Preprint`
-6. **[WVAB: Temporal Risk-Gated Multimodal Guidance and Trusted Edge Streaming for Offline Assistive Vision](https://doi.org/10.21203/rs.3.rs-11073218/v1)** — 2026-09-18 · `Preprint`
-7. **[Replay-Resistant Admission and Permissioned Quorum Consensus in Connected Vehicle Networks: A Fail-Closed, Implementation-Grounded Security Study](https://doi.org/10.21203/rs.3.rs-11047001/v1)** — 2026-09-17 · `Preprint`
-8. **[A Severity-Calibrated Adversarial Benchmark for Federated Learning: From Label Corruption to Structured Model-Update Injection](https://doi.org/10.21203/rs.3.rs-10976314/v1)** — 2026-09-10 · `Preprint`
-9. **[Native Byzantine-Robust Aggregation for Trustworthy Federated Learning: A C++20 Evaluation of Krum, Multi-Krum, Trimmed Mean, and Coordinate-wise Median](https://doi.org/10.21203/rs.3.rs-10973784/v1)** — 2026-09-10 · `Preprint`
-10. **[Policy-Gated Zero-Trust Federated Learning: Identity-Bound Enrollment, Replay-Resistant Control, and Secure Coordination](https://doi.org/10.21203/rs.3.rs-10973795/v1)** — 2026-09-10 · `Preprint`
-11. **[Quorum-Bounded Asynchronous Federated Learning under Non-IID Data and Adversarial Clients: A Systems Study of Stale-Update Exclusion and Convergence](https://doi.org/10.21203/rs.3.rs-10975675/v1)** — 2026-09-10 · `Preprint`
-12. **[Adaptive Edge Intelligence for Low-Latency Assistive Vision under Dynamic Network and Computational Constraints](https://doi.org/10.21203/rs.3.rs-10901871/v1)** — 2026-09-03 · `Preprint`
-13. **[Fabrication-constrained tandem inverse design of photonic crystal fiber SPR sensors with uncertainty-aware Pareto screening](https://doi.org/10.21203/rs.3.rs-10905069/v1)** — 2026-09-03 · `Preprint`
-14. **[Risk-Aware Adaptive Video Processing with Freshness Control for Low-Latency Assistive Vision](https://doi.org/10.21203/rs.3.rs-10902455/v1)** — 2026-09-03 · `Preprint`
-15. **[A Secure Offline Edge Architecture for Wearable Vision Assistance: Raspberry Pi-ESP32-CAM Integration and Reproducible Software Validation](https://doi.org/10.21203/rs.3.rs-10891677/v1)** — 2026-09-02 · `Preprint`
-16. **[WVAB: A Low-Latency Wireless Assistive Vision Framework for Risk-Aware Navigation and Multilingual Audio Guidance](https://doi.org/10.21203/rs.3.rs-10854126/v1)** — 2026-08-31 · `Preprint`
-17. **[Toward Blockchain-Assisted Zero-Trust Secure Communication for Decentralized UAV Swarms in GPS-Denied Environments: A Mathematical Security and Scalability Framework](https://doi.org/10.20944/preprints202608.2000.v1)** — 2026-08-27 · `Preprint`
-18. **[Cyber-Resilience and Trust-Aware Command Authorization for Autonomous UAV Swarms in GPS-Denied Environments](https://doi.org/10.21203/rs.3.rs-10812590/v1)** — 2026-08-26 · `Preprint`
-19. **[Decentralized Coordination and Acoustic Source Localization in Autonomous Drone Swarms](https://doi.org/10.21203/rs.3.rs-10812536/v1)** — 2026-08-26 · `Preprint`
-20. **[OmniGuard V2X: A Hybrid-Security Prototype Framework with Assumption-Aware Validation for Smart Vehicle Systems](https://doi.org/10.21203/rs.3.rs-10813996/v1)** — 2026-08-26 · `Preprint`
-21. **[Policy-Gated Firmware Trust and Anti-Rollback Resilience for Autonomous UAV Edge Platforms: A Formal Security and Software Validation](https://doi.org/10.21203/rs.3.rs-10812592/v1)** — 2026-08-26 · `Preprint`
-22. **[Sequence-, Epoch-, and Integrity-Aware Detection of Replay and Peer-Spoofing Attacks in Decentralized UAV Mesh Networks: A Software-Validated Security Framework](https://doi.org/10.21203/rs.3.rs-10812593/v1)** — 2026-08-26 · `Preprint`
-23. **[Toward Secure Decentralized Coordination and Acoustic Source Localization in Autonomous Drone Swarms](https://doi.org/10.21203/rs.3.rs-10530148/v1)** — 2026-07-31 · `Preprint`
-24. **[CyberPhotonics-SPR: An auditable research workflow for uncertainty-aware inverse design of PCF-SPR sensors](https://doi.org/10.2139/ssrn.7467869)** — 2026 · `Preprint`
+1. **[Personalized Federated Learning Under Severe Statistical Heterogeneity: A Multi-Dataset Analysis of Accuracy, Tail Performance, and Client Fairness](https://doi.org/10.21203/rs.3.rs-11073326/v1)** — 2026-09-21 · `Preprint`
+2. **[An Identity-Aware Permissioned Blockchain Architecture for Secure Connected Vehicle Communication](https://doi.org/10.21203/rs.3.rs-11073229/v1)** — 2026-09-18 · `Preprint`
+3. **[Beyond Dirichlet Alpha: Realized Client Heterogeneity for Privacy–Utility–Fairness Evaluation in Federated Learning](https://doi.org/10.21203/rs.3.rs-11072587/v1)** — 2026-09-18 · `Preprint`
+4. **[Confidence-Aware ESKF–MSCKF Fusion of Visual–Inertial and UWB/TDOA Measurements for Robust UAV Localization in GPS-Denied Environments](https://doi.org/10.21203/rs.3.rs-11073266/v1)** — 2026-09-18 · `Preprint`
+5. **[Post-Quantum and Trust-Aware Authentication for Permissioned Vehicular Blockchains: Session-Amortized V2X Security with Historical Key Continuity](https://doi.org/10.21203/rs.3.rs-11073259/v1)** — 2026-09-18 · `Preprint`
+6. **[Tamper-Evident Incident Response and Digital Evidence Management for Connected Vehicles Using Permissioned Blockchain](https://doi.org/10.21203/rs.3.rs-11073242/v1)** — 2026-09-18 · `Preprint`
+7. **[WVAB: Temporal Risk-Gated Multimodal Guidance and Trusted Edge Streaming for Offline Assistive Vision](https://doi.org/10.21203/rs.3.rs-11073218/v1)** — 2026-09-18 · `Preprint`
+8. **[Replay-Resistant Admission and Permissioned Quorum Consensus in Connected Vehicle Networks: A Fail-Closed, Implementation-Grounded Security Study](https://doi.org/10.21203/rs.3.rs-11047001/v1)** — 2026-09-17 · `Preprint`
+9. **[A Severity-Calibrated Adversarial Benchmark for Federated Learning: From Label Corruption to Structured Model-Update Injection](https://doi.org/10.21203/rs.3.rs-10976314/v1)** — 2026-09-10 · `Preprint`
+10. **[Native Byzantine-Robust Aggregation for Trustworthy Federated Learning: A C++20 Evaluation of Krum, Multi-Krum, Trimmed Mean, and Coordinate-wise Median](https://doi.org/10.21203/rs.3.rs-10973784/v1)** — 2026-09-10 · `Preprint`
+11. **[Policy-Gated Zero-Trust Federated Learning: Identity-Bound Enrollment, Replay-Resistant Control, and Secure Coordination](https://doi.org/10.21203/rs.3.rs-10973795/v1)** — 2026-09-10 · `Preprint`
+12. **[Quorum-Bounded Asynchronous Federated Learning under Non-IID Data and Adversarial Clients: A Systems Study of Stale-Update Exclusion and Convergence](https://doi.org/10.21203/rs.3.rs-10975675/v1)** — 2026-09-10 · `Preprint`
+13. **[Adaptive Edge Intelligence for Low-Latency Assistive Vision under Dynamic Network and Computational Constraints](https://doi.org/10.21203/rs.3.rs-10901871/v1)** — 2026-09-03 · `Preprint`
+14. **[Fabrication-constrained tandem inverse design of photonic crystal fiber SPR sensors with uncertainty-aware Pareto screening](https://doi.org/10.21203/rs.3.rs-10905069/v1)** — 2026-09-03 · `Preprint`
+15. **[Risk-Aware Adaptive Video Processing with Freshness Control for Low-Latency Assistive Vision](https://doi.org/10.21203/rs.3.rs-10902455/v1)** — 2026-09-03 · `Preprint`
+16. **[A Secure Offline Edge Architecture for Wearable Vision Assistance: Raspberry Pi-ESP32-CAM Integration and Reproducible Software Validation](https://doi.org/10.21203/rs.3.rs-10891677/v1)** — 2026-09-02 · `Preprint`
+17. **[WVAB: A Low-Latency Wireless Assistive Vision Framework for Risk-Aware Navigation and Multilingual Audio Guidance](https://doi.org/10.21203/rs.3.rs-10854126/v1)** — 2026-08-31 · `Preprint`
+18. **[Toward Blockchain-Assisted Zero-Trust Secure Communication for Decentralized UAV Swarms in GPS-Denied Environments: A Mathematical Security and Scalability Framework](https://doi.org/10.20944/preprints202608.2000.v1)** — 2026-08-27 · `Preprint`
+19. **[Cyber-Resilience and Trust-Aware Command Authorization for Autonomous UAV Swarms in GPS-Denied Environments](https://doi.org/10.21203/rs.3.rs-10812590/v1)** — 2026-08-26 · `Preprint`
+20. **[Decentralized Coordination and Acoustic Source Localization in Autonomous Drone Swarms](https://doi.org/10.21203/rs.3.rs-10812536/v1)** — 2026-08-26 · `Preprint`
+21. **[OmniGuard V2X: A Hybrid-Security Prototype Framework with Assumption-Aware Validation for Smart Vehicle Systems](https://doi.org/10.21203/rs.3.rs-10813996/v1)** — 2026-08-26 · `Preprint`
+22. **[Policy-Gated Firmware Trust and Anti-Rollback Resilience for Autonomous UAV Edge Platforms: A Formal Security and Software Validation](https://doi.org/10.21203/rs.3.rs-10812592/v1)** — 2026-08-26 · `Preprint`
+23. **[Sequence-, Epoch-, and Integrity-Aware Detection of Replay and Peer-Spoofing Attacks in Decentralized UAV Mesh Networks: A Software-Validated Security Framework](https://doi.org/10.21203/rs.3.rs-10812593/v1)** — 2026-08-26 · `Preprint`
+24. **[Toward Secure Decentralized Coordination and Acoustic Source Localization in Autonomous Drone Swarms](https://doi.org/10.21203/rs.3.rs-10530148/v1)** — 2026-07-31 · `Preprint`
+25. **[CyberPhotonics-SPR: An auditable research workflow for uncertainty-aware inverse design of PCF-SPR sensors](https://doi.org/10.2139/ssrn.7467869)** — 2026 · `Preprint`
 
 <!-- ORCID-PUBLICATIONS:END -->
 
