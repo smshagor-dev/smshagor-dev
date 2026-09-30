@@ -66,13 +66,13 @@ I approach engineering with a strong product and systems mindset: **clean archit
 <!-- ORCID-PUBLICATIONS:START -->
 ## <code>Research & Publications</code>
 
-<a href="https://orcid.org/0009-0003-7730-3202"><img src="./assets/research/orcid-stats.svg" width="100%" alt="ORCID research statistics: 25 public works, 0 published, 25 preprints" /></a>
+<a href="https://orcid.org/0009-0003-7730-3202"><img src="./assets/research/orcid-stats.svg" width="100%" alt="ORCID research statistics: 26 public works, 1 published, 25 preprints" /></a>
 
-> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **30 Sep 2026, 05:40 UTC**.
+> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **30 Sep 2026, 12:43 UTC**.
 
 ### Published Works
 
-_No works currently classified by ORCID as published/formal outputs._
+1. **[ACOUSTIC LOCALIZATION FOR DECENTRALIZED SWARMS OF UNMANNED AERIAL VEHICLES IN THE ABSENCE OF GPS](https://doi.org/10.58168/mist2026_1425-1432)** — *MODELING INFORMATION SYSTEMS AND TECHNOLOGIES – 2026 : Proceedings of the International Scientific and Practical Conference dedicated to the 5th anniversary of the Faculty of Computer Science and Technology, Voronezh, Marth 30, 2026* · 2026-06-30 · `Conference Paper`
 
 ### Preprints
 
