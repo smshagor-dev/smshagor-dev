@@ -68,7 +68,7 @@ I approach engineering with a strong product and systems mindset: **clean archit
 
 <a href="https://orcid.org/0009-0003-7730-3202"><img src="./assets/research/orcid-stats.svg" width="100%" alt="ORCID research statistics: 26 public works, 1 published, 25 preprints" /></a>
 
-> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **16 Oct 2026, 21:18 UTC**.
+> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **17 Oct 2026, 04:37 UTC**.
 
 ### Published Works
 
