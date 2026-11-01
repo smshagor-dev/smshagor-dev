@@ -37,7 +37,7 @@
 
 ## <code>About Me</code>
 
-I’m **Shahanur Islam Shagor**, a **Full-Stack Web Developer and AI / Autonomous Systems Engineer** focused on building dependable software and intelligent systems that connect the **web, AI, edge computing, and the physical world**.
+I’m **Md Shahanur Islam Shagor**, a **Full-Stack Web Developer, AI Engineer, and Founder of OpenMindAI Technologies Ltd.** focused on building dependable software and intelligent systems that connect the **web, AI, edge computing, and the physical world**.
 
 My work spans **full-stack product engineering, machine learning, computer vision, autonomous systems, distributed architectures, and applied cybersecurity**. I enjoy taking complex problems from idea to implementation—designing the architecture, building the product, integrating intelligent components, validating performance, strengthening security, and shipping systems that are practical to use and maintain.
 
@@ -49,7 +49,39 @@ I approach engineering with a strong product and systems mindset: **clean archit
 - Portfolio: **https://smshagor.com**
 - GitHub: **@smshagor-dev**
 - Email: **smshagor.dev@gmail.com**
-- Core Focus: **Full-Stack Engineering · AI/ML · Autonomous Systems · Edge AI · Applied Security**
+- Company: **OpenMindAI Technologies Ltd. — Founder**
+- Core Focus: **Full-Stack Engineering · Local AI · Autonomous Systems · Edge AI · Applied Security**
+
+---
+
+## <code>Founder · OpenMindAI Technologies Ltd.</code>
+
+<div align="center">
+  <img src="./assets/company/openmindai-technologies-ltd.png" width="100%" alt="OpenMindAI Technologies Ltd. — founded by Md Shahanur Islam Shagor, focused on local AI, developer tools and applied research" />
+</div>
+
+I am the **Founder of OpenMindAI Technologies Ltd.**, building practical AI software, portable developer tools, and research-driven engineering systems. The focus is **local-first AI, accessible computing, privacy-aware workflows, and dependable developer experiences**.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/smshagor-dev/OpenMindAI"><img src="./assets/projects/openmindai.png" width="100%" alt="OpenMindAI local-first desktop AI project PNG" /></a>
+  <h3><a href="https://github.com/smshagor-dev/OpenMindAI">OpenMindAI</a></h3>
+  <p>A local-first desktop AI workspace featuring on-device inference, offline chat, model and runtime management, persistent local history, project-aware tools, and optional connected workflows.</p>
+  <p><strong>Stack:</strong> Rust · Tauri 2 · React · TypeScript · SQLite · llama.cpp</p>
+  <p><a href="https://github.com/smshagor-dev/OpenMindAI/releases">Desktop releases</a> · <a href="https://www.rustore.ru/catalog/app/com.openmindai.mobile">Android on RuStore</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/smshagor-dev/OpenMind-Studio"><img src="./assets/projects/openmind-studio.png" width="100%" alt="OpenMind Studio portable desktop development environment PNG" /></a>
+  <h3><a href="https://github.com/smshagor-dev/OpenMind-Studio">OpenMind Studio</a></h3>
+  <p>A portable desktop IDE for restricted and shared computers: Monaco editor, integrated terminal, portable language runtimes, debugging, Git, supported VS Code extensions, and configurable local or cloud AI assistance.</p>
+  <p><strong>Stack:</strong> Rust · Tauri 2 · React · TypeScript · Monaco Editor</p>
+  <p><a href="https://github.com/smshagor-dev/OpenMind-Studio/releases">Download releases</a> · <a href="https://github.com/smshagor-dev/OpenMind-Studio-Code">Source repository</a></p>
+</td>
+</tr>
+</table>
+
+**Part of the wider ecosystem:** [OpenMindAI Cloud](https://github.com/smshagor-dev/openmindai-cloud), a web and backend platform for hosted chat, research workflows, and API integration. Cloud features depend on the configured hosting and providers; local model execution remains a separate workflow.
 
 ---
 
@@ -103,6 +135,21 @@ I approach engineering with a strong product and systems mindset: **clean archit
 25. **[CyberPhotonics-SPR: An auditable research workflow for uncertainty-aware inverse design of PCF-SPR sensors](https://doi.org/10.2139/ssrn.7467869)** — 2026 · `Preprint`
 
 <!-- ORCID-PUBLICATIONS:END -->
+
+---
+
+## <code>Most Starred & Noteworthy Repositories</code>
+
+These are **public GitHub repositories with the strongest visible star activity**, not a claim that every experimental project is widely adopted. Star and fork badges refresh dynamically.
+
+| Repository | GitHub activity | Engineering focus |
+|---|---|---|
+| [UAV GPS-Denied Navigation](https://github.com/smshagor-dev/UVA-GPS-Denied-Navigation-in-Dynamic-Environments) | ![Stars](https://img.shields.io/github/stars/smshagor-dev/UVA-GPS-Denied-Navigation-in-Dynamic-Environments?style=flat-square) ![Forks](https://img.shields.io/github/forks/smshagor-dev/UVA-GPS-Denied-Navigation-in-Dynamic-Environments?style=flat-square) | Autonomous drones, sensor fusion, resilience, and GPS-denied localization |
+| [Next-Gen V2X Security](https://github.com/smshagor-dev/Next-Gen-Blockchain-for-Vehicle-Security) | ![Stars](https://img.shields.io/github/stars/smshagor-dev/Next-Gen-Blockchain-for-Vehicle-Security?style=flat-square) | Connected vehicle security, cryptography, and distributed trust |
+| [OpenMindAI](https://github.com/smshagor-dev/OpenMindAI) | ![Stars](https://img.shields.io/github/stars/smshagor-dev/OpenMindAI?style=flat-square) | Private, local-first desktop AI |
+| [Federated Learning on Non-IID Data + DP](https://github.com/smshagor-dev/Federated-Learning-on-Non-IID-Data-Differential-Privacy) | ![Stars](https://img.shields.io/github/stars/smshagor-dev/Federated-Learning-on-Non-IID-Data-Differential-Privacy?style=flat-square) | Privacy-aware and reproducible distributed ML |
+
+**Snapshot (1 November 2026):** UAV GPS-Denied Navigation led this selection with **29 stars and 11 forks**. [OpenMind Studio](https://github.com/smshagor-dev/OpenMind-Studio) and [CodeTwin-ML](https://github.com/smshagor-dev/CodeTwin-ML) are featured for technical scope and active development, **not** for star counts.
 
 ---
 
@@ -238,138 +285,72 @@ A hardware/software co-design research platform combining deterministic FPGA saf
 
 ---
 
-## <code>Projects</code>
+## <code>Selected Engineering Projects</code>
 
-A selection of engineering projects that reflect my work across **local-first AI, native systems, scalable web platforms, real-time communication, enterprise software, and infrastructure tooling**.
+A curated set of technically interesting repositories covering **software intelligence, computer vision, production-oriented web systems, communication, offline speech, and infrastructure**. These are selected for engineering content, not presented as popular by star count.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<a href="https://github.com/smshagor-dev/OpenMindAI">
-  <img src="./assets/projects/openmindai.png" width="100%" alt="OpenMindAI project visual" />
-</a>
-<br/><br/>
-
-### [OpenMindAI](https://github.com/smshagor-dev/OpenMindAI)
-
-A local-first AI desktop workstation for private on-device chat, model/runtime management, project workspaces, local agents, connected apps, media tools, portable storage, and maintenance workflows.
-
-**Stack:** Rust · Tauri 2 · React · TypeScript · SQLite · llama.cpp
-
+  <a href="https://github.com/smshagor-dev/CodeTwin-ML"><img src="./assets/projects/codetwin-ml.png" width="100%" alt="CodeTwin-ML project PNG preview" /></a>
+  <h3><a href="https://github.com/smshagor-dev/CodeTwin-ML">CodeTwin-ML</a></h3>
+  <p>A local-first Software Digital Twin that indexes real projects, traces code relationships, records deterministic quality and AppSec evidence, and supports reviewable, hash-guarded repair workflows.</p>
+  <p><strong>Stack:</strong> Rust · Tauri 2 · Tree-sitter · SQLite · ONNX</p>
 </td>
 <td width="50%" valign="top">
-
-<a href="https://github.com/smshagor-dev/AetherMotion">
-  <img src="./assets/projects/aethermotion.png" width="100%" alt="AetherMotion project visual" />
-</a>
-<br/><br/>
-
-### [AetherMotion](https://github.com/smshagor-dev/AetherMotion)
-
-A C++20 real-time gesture intelligence and spatial interaction platform with camera tracking, landmark smoothing, gesture classification, AR/fusion, telemetry, deterministic replay, and a Qt operator interface.
-
-**Stack:** C++20 · OpenCV · MediaPipe · Qt6 · Go · Python
-
+  <a href="https://github.com/smshagor-dev/AetherMotion"><img src="./assets/projects/aethermotion.png" width="100%" alt="AetherMotion project PNG preview" /></a>
+  <h3><a href="https://github.com/smshagor-dev/AetherMotion">AetherMotion</a></h3>
+  <p>Real-time gesture recognition and spatial interaction with camera tracking, landmark processing, AR-oriented workflows, telemetry, and replayable experiments.</p>
+  <p><strong>Stack:</strong> C++20 · OpenCV · MediaPipe · Qt6 · Go</p>
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
-
-<a href="https://github.com/smshagor-dev/b2b_global_trade">
-  <img src="./assets/projects/b2b-global-trade.png" width="100%" alt="B2B Global Trade project visual" />
-</a>
-<br/><br/>
-
-### [B2B Global Trade](https://github.com/smshagor-dev/b2b_global_trade)
-
-A production-oriented B2B export/import marketplace with supplier and buyer workflows, RFQs, quotations, real-time chat, search, subscriptions, analytics, verification, and admin operations.
-
-**Stack:** Next.js · TypeScript · Prisma · MySQL · Redis · Socket.IO · Meilisearch
-
+  <a href="https://github.com/smshagor-dev/b2b_global_trade"><img src="./assets/projects/b2b-global-trade.png" width="100%" alt="B2B Global Trade project PNG preview" /></a>
+  <h3><a href="https://github.com/smshagor-dev/b2b_global_trade">B2B Global Trade</a></h3>
+  <p>Full-stack export/import marketplace covering suppliers, buyers, RFQs, quotations, realtime messaging, search, subscriptions, and operational administration.</p>
+  <p><strong>Stack:</strong> Next.js · TypeScript · Prisma · MySQL · Redis</p>
 </td>
 <td width="50%" valign="top">
-
-<a href="https://github.com/smshagor-dev/Smart-Finance">
-  <img src="./assets/projects/smart-finance.png" width="100%" alt="Smart Finance project visual" />
-</a>
-<br/><br/>
-
-### [Smart Finance](https://github.com/smshagor-dev/Smart-Finance)
-
-A full-stack finance platform for wallets, income and expenses, transfers, budgets, savings goals, debts, receipts, collaboration, reports, notifications, AI insights, and admin operations.
-
-**Stack:** Next.js · React · Node.js · Prisma · MySQL · Recharts
-
+  <a href="https://github.com/smshagor-dev/syncchat"><img src="./assets/projects/syncchat.png" width="100%" alt="SyncChat project PNG preview" /></a>
+  <h3><a href="https://github.com/smshagor-dev/syncchat">SyncChat</a></h3>
+  <p>Realtime messaging and collaboration platform spanning direct/group chat, communities, media sharing, calling, notifications, and moderation workflows.</p>
+  <p><strong>Stack:</strong> React · Node.js · Socket.IO · MongoDB · Redis · WebRTC</p>
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
-
-<a href="https://github.com/smshagor-dev/syncchat">
-  <img src="./assets/projects/syncchat.png" width="100%" alt="SyncChat project visual" />
-</a>
-<br/><br/>
-
-### [SyncChat](https://github.com/smshagor-dev/syncchat)
-
-A real-time communication platform with private and group messaging, channels, communities, stories, file sharing, WebRTC calling, push notifications, moderation, and scalable Redis-backed realtime infrastructure.
-
-**Stack:** React · Node.js · Express · Socket.IO · MongoDB · Redis · WebRTC
-
+  <a href="https://github.com/smshagor-dev/Smart-Finance"><img src="./assets/projects/smart-finance.png" width="100%" alt="Smart Finance project PNG preview" /></a>
+  <h3><a href="https://github.com/smshagor-dev/Smart-Finance">Smart Finance</a></h3>
+  <p>Personal finance workspace with wallet and transaction tracking, budgets, savings goals, reporting, and team-oriented management features.</p>
+  <p><strong>Stack:</strong> Next.js · React · Node.js · Prisma · MySQL</p>
 </td>
 <td width="50%" valign="top">
-
-<a href="https://github.com/smshagor-dev/s2s-translator">
-  <img src="./assets/projects/offline-speech-translator.png" width="100%" alt="Offline Speech-to-Speech Translator project visual" />
-</a>
-<br/><br/>
-
-### [Offline Speech-to-Speech Translator](https://github.com/smshagor-dev/s2s-translator)
-
-A fully offline Russian-English-Bengali speech translation prototype with a native C++ AI/audio pipeline, Go REST/WebSocket control layer, Python desktop client, and deterministic mock mode for end-to-end validation.
-
-**Stack:** C++ · whisper.cpp · Piper · Go · WebSocket · Python
-
+  <a href="https://github.com/smshagor-dev/s2s-translator"><img src="./assets/projects/offline-speech-translator.png" width="100%" alt="Offline Speech-to-Speech Translator project PNG preview" /></a>
+  <h3><a href="https://github.com/smshagor-dev/s2s-translator">Offline Speech-to-Speech Translator</a></h3>
+  <p>Offline speech translation prototype for Bangla, English, and Russian, connecting native recognition and speech synthesis with a desktop control workflow.</p>
+  <p><strong>Stack:</strong> C++ · whisper.cpp · Piper · Go · Python</p>
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
-
-<a href="https://github.com/smshagor-dev/Employee-Management-Workspace">
-  <img src="./assets/projects/employee-management-workspace.png" width="100%" alt="Employee Management Workspace project visual" />
-</a>
-<br/><br/>
-
-### [Employee Management Workspace](https://github.com/smshagor-dev/Employee-Management-Workspace)
-
-An enterprise HRM workspace with role-based operations, JWT and 2FA authentication, background jobs, realtime updates, shared domain packages, deployment tooling, and production-oriented system documentation.
-
-**Stack:** Next.js · NestJS · MongoDB · Redis · BullMQ · Socket.IO · Turborepo
-
+  <a href="https://github.com/smshagor-dev/Employee-Management-Workspace"><img src="./assets/projects/employee-management-workspace.png" width="100%" alt="Employee Management Workspace project PNG preview" /></a>
+  <h3><a href="https://github.com/smshagor-dev/Employee-Management-Workspace">Employee Management Workspace</a></h3>
+  <p>Enterprise workspace with role-based HR processes, authentication, background tasks, audit-friendly operations, and realtime updates.</p>
+  <p><strong>Stack:</strong> Next.js · NestJS · MongoDB · Redis · BullMQ</p>
 </td>
 <td width="50%" valign="top">
-
-<a href="https://github.com/smshagor-dev/server-monitor">
-  <img src="./assets/projects/server-monitor.png" width="100%" alt="Server Monitor project visual" />
-</a>
-<br/><br/>
-
-### [Server Monitor](https://github.com/smshagor-dev/server-monitor)
-
-A real-time server and URL monitoring dashboard for health checks, latency tracking, live telemetry, authentication, and operational visibility with an optional Python system metrics agent.
-
-**Stack:** React · TypeScript · Node.js · Socket.IO · Python · Docker · Nginx
-
+  <a href="https://github.com/smshagor-dev/server-monitor"><img src="./assets/projects/server-monitor.png" width="100%" alt="Server Monitor project PNG preview" /></a>
+  <h3><a href="https://github.com/smshagor-dev/server-monitor">Server Monitor</a></h3>
+  <p>Dashboard for server and website health checks, latency, live telemetry, and operational visibility with optional host metrics instrumentation.</p>
+  <p><strong>Stack:</strong> React · TypeScript · Node.js · Socket.IO · Python</p>
 </td>
 </tr>
 </table>
 
----
+For autonomy, privacy-preserving ML, and cyber-physical security, explore the **Research Projects** section above.
 
+---
 ## <code>Tech Arsenal</code>
 
 A work-aligned stack built from the technologies I use across **production web platforms, local-first AI, mobile and desktop applications, autonomous systems, edge computing, applied security, distributed systems, and research engineering**.
