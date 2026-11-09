@@ -100,7 +100,7 @@ I am the **Founder of OpenMindAI Technologies Ltd.**, building practical AI soft
 
 <a href="https://orcid.org/0009-0003-7730-3202"><img src="./assets/research/orcid-stats.svg" width="100%" alt="ORCID research statistics: 26 public works, 1 published, 25 preprints" /></a>
 
-> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **08 Nov 2026, 22:14 UTC**.
+> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **09 Nov 2026, 06:47 UTC**.
 
 ### Published Works
 
