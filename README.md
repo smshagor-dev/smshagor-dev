@@ -98,13 +98,14 @@ I am the **Founder of OpenMindAI Technologies Ltd.**, building practical AI soft
 <!-- ORCID-PUBLICATIONS:START -->
 ## <code>Research & Publications</code>
 
-<a href="https://orcid.org/0009-0003-7730-3202"><img src="./assets/research/orcid-stats.svg" width="100%" alt="ORCID research statistics: 26 public works, 1 published, 25 preprints" /></a>
+<a href="https://orcid.org/0009-0003-7730-3202"><img src="./assets/research/orcid-stats.svg" width="100%" alt="ORCID research statistics: 27 public works, 2 published, 25 preprints" /></a>
 
-> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **10 Nov 2026, 07:27 UTC**.
+> Automatically synchronized from my public [ORCID record](https://orcid.org/0009-0003-7730-3202) every 6 hours. Last sync: **10 Nov 2026, 19:49 UTC**.
 
 ### Published Works
 
-1. **[ACOUSTIC LOCALIZATION FOR DECENTRALIZED SWARMS OF UNMANNED AERIAL VEHICLES IN THE ABSENCE OF GPS](https://doi.org/10.58168/mist2026_1425-1432)** — *MODELING INFORMATION SYSTEMS AND TECHNOLOGIES – 2026 : Proceedings of the International Scientific and Practical Conference dedicated to the 5th anniversary of the Faculty of Computer Science and Technology, Voronezh, Marth 30, 2026* · 2026-06-30 · `Conference Paper`
+1. **[A POST-QUANTUM BLOCKCHAIN FRAMEWORK FOR CONNECTED SMART VEHICLES](https://doi.org/10.58168/intinfsys2026_88-95)** — *INTELLECTUAL INFORMATION SYSTEMS: FROM THEORY TO PRACTICE – 2026 : Proceedings of the International Scientific and Practical Conference, Voronezh, July 02, 2026* · 2026-10-14 · `Conference Paper`
+2. **[ACOUSTIC LOCALIZATION FOR DECENTRALIZED SWARMS OF UNMANNED AERIAL VEHICLES IN THE ABSENCE OF GPS](https://doi.org/10.58168/mist2026_1425-1432)** — *MODELING INFORMATION SYSTEMS AND TECHNOLOGIES – 2026 : Proceedings of the International Scientific and Practical Conference dedicated to the 5th anniversary of the Faculty of Computer Science and Technology, Voronezh, Marth 30, 2026* · 2026-06-30 · `Conference Paper`
 
 ### Preprints
 
